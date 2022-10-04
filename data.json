@@ -1,0 +1,7002 @@
+[
+    {
+        "State": "CA",
+        "Start_Lat": 38.032059999999994,
+        "Start_Lng": -122.11712,
+        "Temperaturef": "72.0",
+        "Street": "I-680 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.156835,
+        "Start_Lng": -118.41378600000002,
+        "Temperaturef": "81.0",
+        "Street": "US-101 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.71522,
+        "Start_Lng": -121.70896,
+        "Temperaturef": "73.0",
+        "Street": "I-580 E"
+    },
+    {
+        "State": "MA",
+        "Start_Lat": 42.238515,
+        "Start_Lng": -71.023746,
+        "Temperaturef": "49.0",
+        "Street": "I-93 N"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.18977899999999,
+        "Start_Lng": -80.922306,
+        "Temperaturef": "56.0",
+        "Street": " Yorkmont Rd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.06687,
+        "Start_Lng": -75.31021700000002,
+        "Temperaturef": "52.0",
+        "Street": "I-76 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.628223999999996,
+        "Start_Lng": -75.28058399999998,
+        "Temperaturef": "60.0",
+        "Street": "I-78 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.879540999999996,
+        "Start_Lng": -117.54503000000001,
+        "Temperaturef": "64.0",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.107060999999998,
+        "Start_Lng": -82.73969699999998,
+        "Temperaturef": "83.0",
+        "Street": " US Highway 19 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.913071,
+        "Start_Lng": -80.21164,
+        "Temperaturef": "69.0",
+        "Street": " NW 7th Ave"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.737148,
+        "Start_Lng": -77.191985,
+        "Temperaturef": "38.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.737479999999998,
+        "Start_Lng": -95.52027,
+        "Temperaturef": "93.0",
+        "Street": " Westheimer Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.83028,
+        "Start_Lng": -88.16826999999998,
+        "Temperaturef": "59.0",
+        "Street": "Winfield Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.451938000000002,
+        "Start_Lng": -81.400468,
+        "Temperaturef": "80.0",
+        "Street": "S Orange Blossom Trl"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.82996,
+        "Start_Lng": -80.32203,
+        "Temperaturef": "71.1",
+        "Street": "Palmetto Expy S"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.609942,
+        "Start_Lng": -111.905955,
+        "Temperaturef": "98.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.525570000000002,
+        "Start_Lng": -95.11819,
+        "Temperaturef": "69.8",
+        "Street": "Nasa Byp"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.227829,
+        "Start_Lng": -75.333887,
+        "Temperaturef": "79.0",
+        "Street": "Kriebel Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.121395,
+        "Start_Lng": -82.739884,
+        "Temperaturef": "79.0",
+        "Street": " US Highway 19 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.727032,
+        "Start_Lng": -86.510692,
+        "Temperaturef": "79.0",
+        "Street": "FL-8 W"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 43.109434,
+        "Start_Lng": -77.503757,
+        "Temperaturef": "43.0",
+        "Street": " Fairport Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.126033000000003,
+        "Start_Lng": -81.446921,
+        "Temperaturef": "79.0",
+        "Street": "Amiens Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.809273,
+        "Start_Lng": -80.315273,
+        "Temperaturef": "80.0",
+        "Street": " NW 36th St"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.484161,
+        "Start_Lng": -98.59548199999999,
+        "Temperaturef": "81.0",
+        "Street": "Connally Loop"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.024364,
+        "Start_Lng": -117.74028899999999,
+        "Temperaturef": "61.0",
+        "Street": "CA-60 E"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.369343,
+        "Start_Lng": -80.841089,
+        "Temperaturef": "75.2",
+        "Street": " Statesville Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.48831,
+        "Start_Lng": -117.25486799999999,
+        "Temperaturef": "91.0",
+        "Street": " Riverview Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.483047999999997,
+        "Start_Lng": -81.443659,
+        "Temperaturef": "70.0",
+        "Street": "I-4 E"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.206584,
+        "Start_Lng": -76.611889,
+        "Temperaturef": "84.0",
+        "Street": "I-695 W"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.69295,
+        "Start_Lng": -84.56752,
+        "Temperaturef": "81.0",
+        "Street": "Hillcrest St"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.552623,
+        "Start_Lng": -90.430537,
+        "Temperaturef": "35.0",
+        "Street": "I-270 N"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.468961,
+        "Start_Lng": -86.682218,
+        "Temperaturef": "46.0",
+        "Street": "I-65 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.92809500000001,
+        "Start_Lng": -80.198325,
+        "Temperaturef": "78.0",
+        "Street": " NE 167th St"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.83328,
+        "Start_Lng": -96.91585,
+        "Temperaturef": "80.1",
+        "Street": "Loop 12 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.80771,
+        "Start_Lng": -122.36764,
+        "Temperaturef": "64.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.552391999999998,
+        "Start_Lng": -81.448734,
+        "Temperaturef": "54.0",
+        "Street": " W Colonial Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.145887,
+        "Start_Lng": -118.47051100000002,
+        "Temperaturef": "76.0",
+        "Street": "I-405 N"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.411689,
+        "Start_Lng": -76.791213,
+        "Temperaturef": "",
+        "Street": "I-795 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.70281,
+        "Start_Lng": -122.01736000000001,
+        "Temperaturef": "55.0",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.76654,
+        "Start_Lng": -117.138975,
+        "Temperaturef": "75.0",
+        "Street": " Texas St"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 37.154871,
+        "Start_Lng": -113.258496,
+        "Temperaturef": "77.0",
+        "Street": " E Highway 59"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.583673,
+        "Start_Lng": -77.611687,
+        "Temperaturef": "76.1",
+        "Street": " US Highway 522 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.247723,
+        "Start_Lng": -118.47266,
+        "Temperaturef": "83.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 33.977851,
+        "Start_Lng": -86.61986800000004,
+        "Temperaturef": "68.0",
+        "Street": " Nectar Cir"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.67705,
+        "Start_Lng": -90.44958000000001,
+        "Temperaturef": "66.0",
+        "Street": "I-270 S"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.221940000000004,
+        "Start_Lng": -94.47153,
+        "Temperaturef": "73.4",
+        "Street": "US-69 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.84636,
+        "Start_Lng": -117.86200000000001,
+        "Temperaturef": "71.1",
+        "Street": "Riverside Fwy E"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.097444,
+        "Start_Lng": -94.574058,
+        "Temperaturef": "91.0",
+        "Street": "Charlotte St"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.584179,
+        "Start_Lng": -93.695929,
+        "Temperaturef": "45.0",
+        "Street": " 140th Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.614656,
+        "Start_Lng": -81.476141,
+        "Temperaturef": "64.0",
+        "Street": " N Hiawassee Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.452939,
+        "Start_Lng": -81.400159,
+        "Temperaturef": "66.0",
+        "Street": " S Orange Blossom Trl"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.211755,
+        "Start_Lng": -77.297004,
+        "Temperaturef": "64.0",
+        "Street": "I-295 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.929034,
+        "Start_Lng": -118.000801,
+        "Temperaturef": "63.0",
+        "Street": " Scott Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.698291999999995,
+        "Start_Lng": -121.335296,
+        "Temperaturef": "75.0",
+        "Street": " Roseville Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.72135,
+        "Start_Lng": -87.80804,
+        "Temperaturef": "34.0",
+        "Street": "Tri State Tollway S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.089027,
+        "Start_Lng": -82.443511,
+        "Temperaturef": "82.0",
+        "Street": " San Marco Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.819933,
+        "Start_Lng": -118.933857,
+        "Temperaturef": "68.0",
+        "Street": " Frazier Mountain Park Rd"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 43.041461,
+        "Start_Lng": -83.655642,
+        "Temperaturef": "58.0",
+        "Street": " N Dort Hwy"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.763164,
+        "Start_Lng": -80.301721,
+        "Temperaturef": "78.0",
+        "Street": " SW 8th St"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.561220000000002,
+        "Start_Lng": -98.34079,
+        "Temperaturef": "77.0",
+        "Street": "I-35 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.547819,
+        "Start_Lng": -81.839315,
+        "Temperaturef": "83.0",
+        "Street": " Ben C Pratt/6 Mile Cypress Pkwy"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.715626,
+        "Start_Lng": -80.364176,
+        "Temperaturef": "84.0",
+        "Street": " SW 56th St"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.432324,
+        "Start_Lng": -77.489672,
+        "Temperaturef": "73.0",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.448996,
+        "Start_Lng": -81.47779399999997,
+        "Temperaturef": "77.0",
+        "Street": " Turkey Lake Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.064386999999996,
+        "Start_Lng": -117.278398,
+        "Temperaturef": "86.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.293619,
+        "Start_Lng": -82.157166,
+        "Temperaturef": "57.0",
+        "Street": " Park St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.18131,
+        "Start_Lng": -80.218659,
+        "Temperaturef": "73.0",
+        "Street": "Florida's Tpke S"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.335809999999995,
+        "Start_Lng": -83.12875,
+        "Temperaturef": "30.0",
+        "Street": "I-94 W"
+    },
+    {
+        "State": "NM",
+        "Start_Lat": 32.295116,
+        "Start_Lng": -106.805251,
+        "Temperaturef": "97.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.459369,
+        "Start_Lng": -90.18302299999999,
+        "Temperaturef": "54.0",
+        "Street": "I-12 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.856665,
+        "Start_Lng": -121.00439399999999,
+        "Temperaturef": "57.0",
+        "Street": " Droge Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.76658,
+        "Start_Lng": -117.48716,
+        "Temperaturef": "63.0",
+        "Street": " Temescal Canyon Rd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.601923,
+        "Start_Lng": -77.53766,
+        "Temperaturef": "59.0",
+        "Street": " Skipwith Rd"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.07718,
+        "Start_Lng": -89.86754,
+        "Temperaturef": "",
+        "Street": "Bill Morris Pkwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.87619,
+        "Start_Lng": -121.15293600000001,
+        "Temperaturef": "45.0",
+        "Street": " State Highway 193"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.508754999999997,
+        "Start_Lng": -87.28030600000002,
+        "Temperaturef": "83.0",
+        "Street": " Untreiner Ave"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.377382,
+        "Start_Lng": -82.478474,
+        "Temperaturef": "40.0",
+        "Street": "I-26 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.207984999999997,
+        "Start_Lng": -81.85297800000002,
+        "Temperaturef": "54.0",
+        "Street": " SE Adel St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.676140999999998,
+        "Start_Lng": -80.07314699999998,
+        "Temperaturef": "87.0",
+        "Street": " Southern Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.446383,
+        "Start_Lng": -82.496765,
+        "Temperaturef": "74.0",
+        "Street": " 53rd Ave E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.900328,
+        "Start_Lng": -80.186939,
+        "Temperaturef": "65.0",
+        "Street": " NE 136th St"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.926594,
+        "Start_Lng": -90.039124,
+        "Temperaturef": "64.0",
+        "Street": "Westbank Expy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.58551,
+        "Start_Lng": -118.13396999999999,
+        "Temperaturef": "82.9",
+        "Street": "CA-14 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.068819,
+        "Start_Lng": -117.39371899999999,
+        "Temperaturef": "58.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.10825,
+        "Start_Lng": -92.515991,
+        "Temperaturef": "62.0",
+        "Street": "75th St NW"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.656381,
+        "Start_Lng": -80.410898,
+        "Temperaturef": "88.0",
+        "Street": " SW 120th St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.142167,
+        "Start_Lng": -120.49202199999999,
+        "Temperaturef": "67.0",
+        "Street": " S Highway 59"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 39.864709999999995,
+        "Start_Lng": -83.99986,
+        "Temperaturef": "69.8",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 39.993876,
+        "Start_Lng": -76.044498,
+        "Temperaturef": "77.0",
+        "Street": " Brackbill Rd"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.023705,
+        "Start_Lng": -76.94556999999998,
+        "Temperaturef": "91.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "AR",
+        "Start_Lat": 35.513563,
+        "Start_Lng": -93.81428299999999,
+        "Temperaturef": "95.0",
+        "Street": "I-40 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.018966999999996,
+        "Start_Lng": -118.10556499999998,
+        "Temperaturef": "79.0",
+        "Street": "W Victoria Ave"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.52468,
+        "Start_Lng": -77.28623,
+        "Temperaturef": "51.1",
+        "Street": "I-64 E"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.664764,
+        "Start_Lng": -94.76405799999999,
+        "Temperaturef": "25.0",
+        "Street": "I-94 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.895145,
+        "Start_Lng": -82.002134,
+        "Temperaturef": "67.0",
+        "Street": "Jones Loop Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.172666999999997,
+        "Start_Lng": -82.74039599999998,
+        "Temperaturef": "87.0",
+        "Street": " US Highway 19"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 39.983731,
+        "Start_Lng": -85.843181,
+        "Temperaturef": "27.0",
+        "Street": " S State Road 13"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.564840000000004,
+        "Start_Lng": -96.82258,
+        "Temperaturef": "65.7",
+        "Street": "US-77 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.702117,
+        "Start_Lng": -117.85826999999999,
+        "Temperaturef": "59.0",
+        "Street": "CA-55 S"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.080703,
+        "Start_Lng": -96.012976,
+        "Temperaturef": "82.0",
+        "Street": " S Vancouver Pl"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.944934,
+        "Start_Lng": -76.86358,
+        "Temperaturef": "32.0",
+        "Street": "John Hanson Hwy E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.48275,
+        "Start_Lng": -81.44471999999998,
+        "Temperaturef": "80.1",
+        "Street": "I-4 W"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 43.032621,
+        "Start_Lng": -124.110993,
+        "Temperaturef": "64.0",
+        "Street": "Highway 42"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.254308,
+        "Start_Lng": -119.21364399999999,
+        "Temperaturef": "60.0",
+        "Street": "CA-1 N"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.07523,
+        "Start_Lng": -73.466466,
+        "Temperaturef": "42.0",
+        "Street": "Governor John Davis Lodge Tpke"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.699891,
+        "Start_Lng": -84.404391,
+        "Temperaturef": "58.0",
+        "Street": "GA-401 S"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.864333,
+        "Start_Lng": -111.89998500000002,
+        "Temperaturef": "57.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.190634999999997,
+        "Start_Lng": -81.551618,
+        "Temperaturef": "86.0",
+        "Street": "Southside Blvd"
+    },
+    {
+        "State": "DC",
+        "Start_Lat": 38.926813,
+        "Start_Lng": -77.007999,
+        "Temperaturef": "95.0",
+        "Street": " Michigan Ave NE"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.603431,
+        "Start_Lng": -121.401425,
+        "Temperaturef": "77.0",
+        "Street": "Cottage Way"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.80133,
+        "Start_Lng": -88.23559,
+        "Temperaturef": "75.0",
+        "Street": "I-88 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.925877,
+        "Start_Lng": -80.167069,
+        "Temperaturef": "76.0",
+        "Street": " NE 163rd St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.074957,
+        "Start_Lng": -81.498779,
+        "Temperaturef": "70.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 34.91802,
+        "Start_Lng": -110.25331000000001,
+        "Temperaturef": "48.9",
+        "Street": "Purple Heart Trail"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.491775,
+        "Start_Lng": -83.02935,
+        "Temperaturef": "64.0",
+        "Street": "I-696 W"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.792313,
+        "Start_Lng": -96.638382,
+        "Temperaturef": "91.0",
+        "Street": "US-80 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.636031,
+        "Start_Lng": -80.414575,
+        "Temperaturef": "73.0",
+        "Street": " SW 141st St"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.837896,
+        "Start_Lng": -97.087037,
+        "Temperaturef": "50.0",
+        "Street": "Airport Fwy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.000157,
+        "Start_Lng": -117.550168,
+        "Temperaturef": "50.0",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.293619,
+        "Start_Lng": -118.470243,
+        "Temperaturef": "74.0",
+        "Street": "Golden State Fwy S"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 42.144723,
+        "Start_Lng": -122.625574,
+        "Temperaturef": "52.0",
+        "Street": " Highway 66"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.24236,
+        "Start_Lng": -76.67101,
+        "Temperaturef": "86.0",
+        "Street": "I-695 W"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.113873,
+        "Start_Lng": -86.8099,
+        "Temperaturef": "65.0",
+        "Street": " Woodmont Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.68015,
+        "Start_Lng": -117.85083799999998,
+        "Temperaturef": "63.0",
+        "Street": "Von Karman Ave"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.16698,
+        "Start_Lng": -73.217961,
+        "Temperaturef": "75.0",
+        "Street": "Governor John Davis Lodge Tpke"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.422338,
+        "Start_Lng": -119.723753,
+        "Temperaturef": "45.0",
+        "Street": " Worman Rd"
+    },
+    {
+        "State": "WI",
+        "Start_Lat": 43.08714000000001,
+        "Start_Lng": -87.9218,
+        "Temperaturef": "",
+        "Street": "I-43 S"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.434940999999995,
+        "Start_Lng": -122.269603,
+        "Temperaturef": "59.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.317984,
+        "Start_Lng": -80.548508,
+        "Temperaturef": "61.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.943979999999996,
+        "Start_Lng": -118.36853500000001,
+        "Temperaturef": "63.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.08985,
+        "Start_Lng": -77.17511999999998,
+        "Temperaturef": "",
+        "Street": "Washington National Pike S"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.37682,
+        "Start_Lng": -75.611074,
+        "Temperaturef": "46.0",
+        "Street": " Route 100"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.042156,
+        "Start_Lng": -76.847102,
+        "Temperaturef": "37.0",
+        "Street": "Baltimore Washington Pkwy N"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.973774,
+        "Start_Lng": -90.054786,
+        "Temperaturef": "94.0",
+        "Street": " Mandeville St"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 32.834552,
+        "Start_Lng": -87.877101,
+        "Temperaturef": "88.9",
+        "Street": "Greensboro St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.649996,
+        "Start_Lng": -120.72094299999999,
+        "Temperaturef": "103.0",
+        "Street": " Nacimiento Lake Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.727885999999998,
+        "Start_Lng": -80.367548,
+        "Temperaturef": "91.0",
+        "Street": " SW 107th Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.337979999999998,
+        "Start_Lng": -82.530992,
+        "Temperaturef": "82.0",
+        "Street": " N Washington Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.194827000000004,
+        "Start_Lng": -120.100385,
+        "Temperaturef": "27.0",
+        "Street": " N Lake Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.277359999999994,
+        "Start_Lng": -122.2993,
+        "Temperaturef": "55.0",
+        "Street": "CA-121"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.871107,
+        "Start_Lng": -77.45031999999998,
+        "Temperaturef": "79.0",
+        "Street": "Stonecroft Blvd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.256824,
+        "Start_Lng": -121.181076,
+        "Temperaturef": "23.0",
+        "Street": " S Highway 97"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.573240000000002,
+        "Start_Lng": -81.269565,
+        "Temperaturef": "82.0",
+        "Street": " Harrell Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.927492,
+        "Start_Lng": -80.21419300000002,
+        "Temperaturef": "86.0",
+        "Street": "Palmetto Expy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.677851000000004,
+        "Start_Lng": -121.36213400000001,
+        "Temperaturef": "54.0",
+        "Street": " Walerga Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.715997,
+        "Start_Lng": -80.353001,
+        "Temperaturef": "78.0",
+        "Street": " SW 56th St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.627947,
+        "Start_Lng": -80.369826,
+        "Temperaturef": "81.0",
+        "Street": "SW 152nd St"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.733154,
+        "Start_Lng": -73.307498,
+        "Temperaturef": "90.0",
+        "Street": "Southern State Pkwy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.17935,
+        "Start_Lng": -122.13226,
+        "Temperaturef": "62.1",
+        "Street": "I-680 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.757105,
+        "Start_Lng": -82.646601,
+        "Temperaturef": "85.0",
+        "Street": " 14th Ave S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.81172,
+        "Start_Lng": -74.30581,
+        "Temperaturef": "55.9",
+        "Street": "I-280 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.489271999999996,
+        "Start_Lng": -81.45875600000002,
+        "Temperaturef": "72.0",
+        "Street": " S Kirkman Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.598695,
+        "Start_Lng": -121.401427,
+        "Temperaturef": "55.0",
+        "Street": " Fulton Ave"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.90759,
+        "Start_Lng": -74.1001,
+        "Temperaturef": "70.0",
+        "Street": "Garden State Pkwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.299295,
+        "Start_Lng": -123.286004,
+        "Temperaturef": "63.0",
+        "Street": " N Highway 101"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.228035,
+        "Start_Lng": -117.290148,
+        "Temperaturef": "66.0",
+        "Street": "Rim of the World Hwy"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 39.172393,
+        "Start_Lng": -84.49279200000002,
+        "Temperaturef": "37.0",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 34.409769,
+        "Start_Lng": -83.190182,
+        "Temperaturef": "50.0",
+        "Street": "GA-403 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.736812,
+        "Start_Lng": -95.41069,
+        "Temperaturef": "90.0",
+        "Street": " Branard St"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 34.784596,
+        "Start_Lng": -112.45231000000001,
+        "Temperaturef": "77.0",
+        "Street": " W Industrial Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.480998,
+        "Start_Lng": -84.315551,
+        "Temperaturef": "66.0",
+        "Street": "FL-8 E"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.799138,
+        "Start_Lng": -104.93421200000002,
+        "Temperaturef": "28.0",
+        "Street": "Vasquez Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.001612,
+        "Start_Lng": -122.03773100000001,
+        "Temperaturef": "49.0",
+        "Street": "CA-242 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.772240000000004,
+        "Start_Lng": -117.90885,
+        "Temperaturef": "69.1",
+        "Street": "CA-22 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.52151,
+        "Start_Lng": -81.87861,
+        "Temperaturef": "78.0",
+        "Street": " Congdon Rd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.869873,
+        "Start_Lng": -96.68319699999999,
+        "Temperaturef": "74.0",
+        "Street": " Jupiter Rd"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.803521999999994,
+        "Start_Lng": -76.99768,
+        "Temperaturef": "54.0",
+        "Street": "Capital Beltway N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.43177,
+        "Start_Lng": -122.20153400000001,
+        "Temperaturef": "73.0",
+        "Street": " Alameda de Las Pulgas"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.694789,
+        "Start_Lng": -79.95818,
+        "Temperaturef": "93.0",
+        "Street": " Easler Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.551762,
+        "Start_Lng": -120.326972,
+        "Temperaturef": "79.0",
+        "Street": "State Highway 89"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.236337,
+        "Start_Lng": -79.864366,
+        "Temperaturef": "89.0",
+        "Street": " Clearwater Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.700979,
+        "Start_Lng": -120.076751,
+        "Temperaturef": "59.0",
+        "Street": " Kays Rd"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.549999,
+        "Start_Lng": -84.51535200000002,
+        "Temperaturef": "67.0",
+        "Street": " Highway 11 N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.751815,
+        "Start_Lng": -77.747851,
+        "Temperaturef": "71.0",
+        "Street": " Suffield Ln"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.690249,
+        "Start_Lng": -122.13002,
+        "Temperaturef": "43.0",
+        "Street": " Hesperian Blvd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.65655,
+        "Start_Lng": -95.02973,
+        "Temperaturef": "86.0",
+        "Street": "TX-146 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.447631,
+        "Start_Lng": -81.172865,
+        "Temperaturef": "73.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.542774,
+        "Start_Lng": -122.51023,
+        "Temperaturef": "78.0",
+        "Street": "I-84 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.356431,
+        "Start_Lng": -81.475864,
+        "Temperaturef": "79.0",
+        "Street": "Central Florida Greeneway S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.47627,
+        "Start_Lng": -81.39672900000002,
+        "Temperaturef": "82.0",
+        "Street": "Wakulla Way"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.707245,
+        "Start_Lng": -117.08058700000001,
+        "Temperaturef": "99.0",
+        "Street": " Simpson Rd"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.582606,
+        "Start_Lng": -111.657651,
+        "Temperaturef": "95.0",
+        "Street": "N Beeline Hwy"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.044235,
+        "Start_Lng": -80.082813,
+        "Temperaturef": "",
+        "Street": " Carnes Blvd"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.550917999999996,
+        "Start_Lng": -112.20051399999998,
+        "Temperaturef": "99.0",
+        "Street": " W Grand Ave"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.34754,
+        "Start_Lng": -76.64676,
+        "Temperaturef": "79.0",
+        "Street": "I-83 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.65838,
+        "Start_Lng": -77.450561,
+        "Temperaturef": "63.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.266847999999996,
+        "Start_Lng": -88.031649,
+        "Temperaturef": "3.9",
+        "Street": " W State Route 60"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.413662,
+        "Start_Lng": -119.02121499999998,
+        "Temperaturef": "48.0",
+        "Street": " N Chester Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.82655,
+        "Start_Lng": -118.20773,
+        "Temperaturef": "64.0",
+        "Street": "I-405 N"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.42559,
+        "Start_Lng": -111.891,
+        "Temperaturef": "80.1",
+        "Street": "Price Fwy N"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.516484999999996,
+        "Start_Lng": -80.592256,
+        "Temperaturef": "79.0",
+        "Street": " Kershaw Camden Hwy"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.104304,
+        "Start_Lng": -80.985603,
+        "Temperaturef": "66.0",
+        "Street": " S Tryon St"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.750128000000004,
+        "Start_Lng": -72.719545,
+        "Temperaturef": "55.0",
+        "Street": "I-84 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.092149,
+        "Start_Lng": -117.29412099999999,
+        "Temperaturef": "66.0",
+        "Street": " S E St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.33242,
+        "Start_Lng": -117.15785,
+        "Temperaturef": "72.0",
+        "Street": "Pala Rd"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 34.99472,
+        "Start_Lng": -89.87864,
+        "Temperaturef": "63.0",
+        "Street": "US-78 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.331876,
+        "Start_Lng": -81.686288,
+        "Temperaturef": "86.0",
+        "Street": "Bonita Landing Cir"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.20362,
+        "Start_Lng": -80.74851,
+        "Temperaturef": "26.1",
+        "Street": " Albemarle Rd"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.96548,
+        "Start_Lng": -93.24678,
+        "Temperaturef": "68.0",
+        "Street": "US-52 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.668162,
+        "Start_Lng": -97.234835,
+        "Temperaturef": "81.0",
+        "Street": "US-287 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.945468,
+        "Start_Lng": -118.36664499999999,
+        "Temperaturef": "77.0",
+        "Street": " W Century Blvd"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.413129999999995,
+        "Start_Lng": -76.60363000000002,
+        "Temperaturef": "45.0",
+        "Street": "I-695 E"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.601321999999996,
+        "Start_Lng": -81.226957,
+        "Temperaturef": "60.0",
+        "Street": "Salley Rd"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 32.448231,
+        "Start_Lng": -93.785896,
+        "Temperaturef": "92.0",
+        "Street": " W Canal Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.699604,
+        "Start_Lng": -120.435226,
+        "Temperaturef": "76.0",
+        "Street": " Calle Marana"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.14993,
+        "Start_Lng": -80.89461899999998,
+        "Temperaturef": "43.0",
+        "Street": "I-77 N"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.564710999999996,
+        "Start_Lng": -87.744187,
+        "Temperaturef": "68.9",
+        "Street": "I-57 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.84682,
+        "Start_Lng": -77.43153000000002,
+        "Temperaturef": "73.0",
+        "Street": "I-66 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.978384000000005,
+        "Start_Lng": -117.70233700000001,
+        "Temperaturef": "",
+        "Street": "CA-71 S"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.751813,
+        "Start_Lng": -73.92911099999998,
+        "Temperaturef": "48.0",
+        "Street": "I-90 W"
+    },
+    {
+        "State": "MA",
+        "Start_Lat": 42.29676,
+        "Start_Lng": -71.04647,
+        "Temperaturef": "46.9",
+        "Street": "I-93 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.67094,
+        "Start_Lng": -117.82746999999999,
+        "Temperaturef": "64.0",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.778618,
+        "Start_Lng": -96.788576,
+        "Temperaturef": "79.0",
+        "Street": "Cesar Chavez Blvd"
+    },
+    {
+        "State": "WI",
+        "Start_Lat": 42.87587,
+        "Start_Lng": -87.93726,
+        "Temperaturef": "27.0",
+        "Street": "US-41 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 36.84489600000001,
+        "Start_Lng": -76.26912800000002,
+        "Temperaturef": "49.0",
+        "Street": "I-264 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.793159,
+        "Start_Lng": -119.86458400000001,
+        "Temperaturef": "84.0",
+        "Street": "CA-99 N"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 31.65449000000001,
+        "Start_Lng": -86.77172,
+        "Temperaturef": "87.1",
+        "Street": "I-65 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.926320999999998,
+        "Start_Lng": -80.13990799999998,
+        "Temperaturef": "66.0",
+        "Street": " NE 163rd St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.071940000000005,
+        "Start_Lng": -118.08458,
+        "Temperaturef": "44.6",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.763209999999997,
+        "Start_Lng": -85.696738,
+        "Temperaturef": "83.0",
+        "Street": "FL-8 W"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.39198,
+        "Start_Lng": -83.003865,
+        "Temperaturef": "81.0",
+        "Street": "Edsel Ford Fwy W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.1544,
+        "Start_Lng": -81.84715,
+        "Temperaturef": "73.0",
+        "Street": "I-4 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.741738,
+        "Start_Lng": -121.574009,
+        "Temperaturef": "48.0",
+        "Street": "I-580 E"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 41.253824,
+        "Start_Lng": -111.85146599999999,
+        "Temperaturef": "36.0",
+        "Street": " Ogden Cyn"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.927684,
+        "Start_Lng": -80.188233,
+        "Temperaturef": "78.0",
+        "Street": " NE 6th Ave"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.92158,
+        "Start_Lng": -104.85308,
+        "Temperaturef": "52.0",
+        "Street": " E 124th Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.753523,
+        "Start_Lng": -120.88165500000001,
+        "Temperaturef": "70.0",
+        "Street": " Crane Rd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.60380900000001,
+        "Start_Lng": -77.525548,
+        "Temperaturef": "81.0",
+        "Street": " Glenside Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.567359999999997,
+        "Start_Lng": -81.286006,
+        "Temperaturef": "77.0",
+        "Street": " Carolyn Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.927833,
+        "Start_Lng": -80.18824000000002,
+        "Temperaturef": "77.0",
+        "Street": " NE 6th Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.102927,
+        "Start_Lng": -121.54935400000001,
+        "Temperaturef": "95.0",
+        "Street": " Lindhurst Ave"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 39.796009999999995,
+        "Start_Lng": -86.2744,
+        "Temperaturef": "12.9",
+        "Street": "I-74 W"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 36.140982,
+        "Start_Lng": -80.239492,
+        "Temperaturef": "83.0",
+        "Street": "John Gold Memorial Expy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.712098,
+        "Start_Lng": -122.396042,
+        "Temperaturef": "64.0",
+        "Street": "James Lick Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.621038000000002,
+        "Start_Lng": -81.749509,
+        "Temperaturef": "71.0",
+        "Street": "Lee Blvd"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 41.64458,
+        "Start_Lng": -83.54852,
+        "Temperaturef": "81.0",
+        "Street": "Anthony Wayne Trl"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.724612,
+        "Start_Lng": -111.951617,
+        "Temperaturef": "44.0",
+        "Street": "I-215 S"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 32.366971,
+        "Start_Lng": -86.10668299999998,
+        "Temperaturef": "83.0",
+        "Street": "AL-8 W"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 45.801790000000004,
+        "Start_Lng": -108.53473000000001,
+        "Temperaturef": "1.9",
+        "Street": " N 27th St"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.282916,
+        "Start_Lng": -76.486631,
+        "Temperaturef": "",
+        "Street": "I-695 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.435588,
+        "Start_Lng": -121.34125800000001,
+        "Temperaturef": "63.0",
+        "Street": "El Camino Real S"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.149282,
+        "Start_Lng": -122.78968200000001,
+        "Temperaturef": "83.0",
+        "Street": "Molalla Rd"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 39.783413,
+        "Start_Lng": -86.163096,
+        "Temperaturef": "75.0",
+        "Street": "I-65 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.931251,
+        "Start_Lng": -118.385383,
+        "Temperaturef": "61.0",
+        "Street": "Glenn Anderson Fwy W"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.335221999999995,
+        "Start_Lng": -117.21876699999999,
+        "Temperaturef": "71.0",
+        "Street": " Wallowa Lake Hwy"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.18074,
+        "Start_Lng": -80.8893,
+        "Temperaturef": "73.0",
+        "Street": "W Woodlawn Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.689255,
+        "Start_Lng": -82.480687,
+        "Temperaturef": "63.0",
+        "Street": " NW 130th St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.548191999999997,
+        "Start_Lng": -81.83929300000001,
+        "Temperaturef": "73.0",
+        "Street": " Ben C Pratt/6 Mile Cypress Pkwy"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.554274,
+        "Start_Lng": -105.09243000000001,
+        "Temperaturef": "83.0",
+        "Street": "CO-470 W"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.982526,
+        "Start_Lng": -80.889104,
+        "Temperaturef": "75.0",
+        "Street": " Woodbury Dr"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.85477,
+        "Start_Lng": -121.906246,
+        "Temperaturef": "35.1",
+        "Street": " State Route 2"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.608808,
+        "Start_Lng": -120.19063899999999,
+        "Temperaturef": "39.0",
+        "Street": "US-101 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.450371999999998,
+        "Start_Lng": -81.39928,
+        "Temperaturef": "79.0",
+        "Street": " Sand Lake Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.594448,
+        "Start_Lng": -122.230502,
+        "Temperaturef": "68.0",
+        "Street": "CA-92 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.350240999999997,
+        "Start_Lng": -97.511505,
+        "Temperaturef": "63.0",
+        "Street": " US Highway 290 E"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.003616,
+        "Start_Lng": -93.40096899999999,
+        "Temperaturef": "87.0",
+        "Street": "US-169 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.753439,
+        "Start_Lng": -122.403051,
+        "Temperaturef": "66.9",
+        "Street": "James Lick Fwy N"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.487161,
+        "Start_Lng": -111.89544,
+        "Temperaturef": "49.0",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.921235999999997,
+        "Start_Lng": -90.09574,
+        "Temperaturef": "69.0",
+        "Street": " Austerlitz St"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.542981,
+        "Start_Lng": -72.627185,
+        "Temperaturef": "45.0",
+        "Street": "CT-9 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.264640000000004,
+        "Start_Lng": -81.6098,
+        "Temperaturef": "52.0",
+        "Street": "I-4 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 40.278335,
+        "Start_Lng": -121.253174,
+        "Temperaturef": "48.0",
+        "Street": "State Highway 89"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.517090999999997,
+        "Start_Lng": -81.376345,
+        "Temperaturef": "76.0",
+        "Street": " S Orange Ave"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.80016,
+        "Start_Lng": -77.185106,
+        "Temperaturef": "77.0",
+        "Street": "Backlick Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.967742,
+        "Start_Lng": -118.163242,
+        "Temperaturef": "77.0",
+        "Street": " Florence Ave"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.750453,
+        "Start_Lng": -74.182631,
+        "Temperaturef": "68.0",
+        "Street": "I-280 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.779118,
+        "Start_Lng": -117.89058600000001,
+        "Temperaturef": "75.0",
+        "Street": "Garden Grove Fwy"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.282964,
+        "Start_Lng": -110.96106699999999,
+        "Temperaturef": "94.0",
+        "Street": " E Limberlost Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.684208,
+        "Start_Lng": -122.0769,
+        "Temperaturef": "46.0",
+        "Street": " N 5th St"
+    },
+    {
+        "State": "RI",
+        "Start_Lat": 41.873652,
+        "Start_Lng": -71.383213,
+        "Temperaturef": "70.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.398609999999998,
+        "Start_Lng": -80.09078000000002,
+        "Temperaturef": "77.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 43.012429,
+        "Start_Lng": -78.82231,
+        "Temperaturef": "57.9",
+        "Street": " Niagara Falls Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.49237,
+        "Start_Lng": -117.661468,
+        "Temperaturef": "75.9",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.141682,
+        "Start_Lng": -86.67023,
+        "Temperaturef": "33.0",
+        "Street": "I-40 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.53467,
+        "Start_Lng": -122.278628,
+        "Temperaturef": "72.0",
+        "Street": "Bayshore Fwy N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.25202100000001,
+        "Start_Lng": -81.763025,
+        "Temperaturef": "77.0",
+        "Street": "W Beltway S"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 36.32826,
+        "Start_Lng": -80.720043,
+        "Temperaturef": "64.0",
+        "Street": " NC 268"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.241731,
+        "Start_Lng": -121.768394,
+        "Temperaturef": "75.0",
+        "Street": "S Valley Fwy N"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.646299,
+        "Start_Lng": -77.938162,
+        "Temperaturef": "76.0",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 47.795473,
+        "Start_Lng": -108.63335900000001,
+        "Temperaturef": "65.0",
+        "Street": " US Highway 191 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 39.20182,
+        "Start_Lng": -78.318483,
+        "Temperaturef": "39.0",
+        "Street": " Back Mountain Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.92457,
+        "Start_Lng": -117.972394,
+        "Temperaturef": "79.0",
+        "Street": "Martinez Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.622079,
+        "Start_Lng": -117.17167099999999,
+        "Temperaturef": "61.0",
+        "Street": " Scenic View Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.113638,
+        "Start_Lng": -117.89021000000001,
+        "Temperaturef": "77.0",
+        "Street": " S Citrus Ave"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.230938,
+        "Start_Lng": -94.013103,
+        "Temperaturef": "47.0",
+        "Street": " Highway 55 W"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.901827000000004,
+        "Start_Lng": -93.13560799999999,
+        "Temperaturef": "57.0",
+        "Street": "Sibley Memorial Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.073513,
+        "Start_Lng": -118.27024899999999,
+        "Temperaturef": "57.0",
+        "Street": "CA-2 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.957463,
+        "Start_Lng": -118.087331,
+        "Temperaturef": "56.0",
+        "Street": "I-605 N"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.236976,
+        "Start_Lng": -80.736135,
+        "Temperaturef": "50.0",
+        "Street": "E W.T. Harris Blvd"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 40.03451,
+        "Start_Lng": -82.99625,
+        "Temperaturef": "39.9",
+        "Street": "North Fwy S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.437401,
+        "Start_Lng": -74.254649,
+        "Temperaturef": "52.0",
+        "Street": "Garden State Pkwy N"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.718066,
+        "Start_Lng": -111.873998,
+        "Temperaturef": "47.0",
+        "Street": " S 600 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.052658,
+        "Start_Lng": -120.486608,
+        "Temperaturef": "55.0",
+        "Street": " N Thompson Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.83242,
+        "Start_Lng": -118.20898999999999,
+        "Temperaturef": "63.0",
+        "Street": "Long Beach Fwy S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 34.687813,
+        "Start_Lng": -111.74417700000001,
+        "Temperaturef": "88.0",
+        "Street": "Arizona Veterans Highway"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.676352,
+        "Start_Lng": -97.186965,
+        "Temperaturef": "65.0",
+        "Street": "I-20 W"
+    },
+    {
+        "State": "WV",
+        "Start_Lat": 38.415960999999996,
+        "Start_Lng": -82.26765,
+        "Temperaturef": "52.0",
+        "Street": "I-64 W"
+    },
+    {
+        "State": "KY",
+        "Start_Lat": 39.05102,
+        "Start_Lng": -84.551103,
+        "Temperaturef": "51.0",
+        "Street": "I-71 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.028166,
+        "Start_Lng": -118.33509699999999,
+        "Temperaturef": "72.0",
+        "Street": " Crenshaw Blvd"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.83469,
+        "Start_Lng": -74.17925,
+        "Temperaturef": "70.0",
+        "Street": "Garden State Pkwy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.570786,
+        "Start_Lng": -121.515101,
+        "Temperaturef": "60.0",
+        "Street": "Capital City Fwy W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.94961,
+        "Start_Lng": -80.35047,
+        "Temperaturef": "86.0",
+        "Street": "Florida's Tpke S"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 43.144541,
+        "Start_Lng": -123.38396999999999,
+        "Temperaturef": "49.0",
+        "Street": " Old Highway 99 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.963082999999997,
+        "Start_Lng": -80.15353499999998,
+        "Temperaturef": "90.0",
+        "Street": " NE 203rd St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.03536,
+        "Start_Lng": -118.02529799999999,
+        "Temperaturef": "91.0",
+        "Street": "I-605 N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 36.961124,
+        "Start_Lng": -81.933221,
+        "Temperaturef": "30.0",
+        "Street": " Redbud Hwy"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 39.169942,
+        "Start_Lng": -77.536321,
+        "Temperaturef": "68.0",
+        "Street": " James Monroe Hwy"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 32.780984000000004,
+        "Start_Lng": -80.790468,
+        "Temperaturef": "58.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.012333,
+        "Start_Lng": -77.041568,
+        "Temperaturef": "46.0",
+        "Street": "Georgia Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.632618,
+        "Start_Lng": -80.414796,
+        "Temperaturef": "64.0",
+        "Street": " SW 137th Ave"
+    },
+    {
+        "State": "IA",
+        "Start_Lat": 41.633115999999994,
+        "Start_Lng": -90.878906,
+        "Temperaturef": "44.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.370435,
+        "Start_Lng": -77.403423,
+        "Temperaturef": "71.0",
+        "Street": " Fort Robinson Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.78902100000001,
+        "Start_Lng": -87.936337,
+        "Temperaturef": "48.0",
+        "Street": " S Madison St"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.859640999999996,
+        "Start_Lng": -121.98801499999999,
+        "Temperaturef": "44.0",
+        "Street": "WA-522"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.137557,
+        "Start_Lng": -120.463347,
+        "Temperaturef": "90.0",
+        "Street": " Main St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.95315499999999,
+        "Start_Lng": -119.93084499999999,
+        "Temperaturef": "95.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.45906,
+        "Start_Lng": -90.37459,
+        "Temperaturef": "30.9",
+        "Street": "I-55 N"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.677618,
+        "Start_Lng": -111.90200800000001,
+        "Temperaturef": "48.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.059736,
+        "Start_Lng": -118.25203,
+        "Temperaturef": "66.0",
+        "Street": "CA-110 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.371252,
+        "Start_Lng": -122.263072,
+        "Temperaturef": "61.0",
+        "Street": " La Honda Rd"
+    },
+    {
+        "State": "NH",
+        "Start_Lat": 44.874675,
+        "Start_Lng": -71.41134100000002,
+        "Temperaturef": "30.0",
+        "Street": " NH Route 26"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.93777,
+        "Start_Lng": -82.285754,
+        "Temperaturef": "87.8",
+        "Street": " N Parsons Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.543491999999997,
+        "Start_Lng": -81.915071,
+        "Temperaturef": "70.0",
+        "Street": " McGregor Blvd"
+    },
+    {
+        "State": "NV",
+        "Start_Lat": 36.11458,
+        "Start_Lng": -115.22488,
+        "Temperaturef": "84.0",
+        "Street": " S Jones Blvd"
+    },
+    {
+        "State": "RI",
+        "Start_Lat": 41.79733,
+        "Start_Lng": -71.40356,
+        "Temperaturef": "82.9",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.18172,
+        "Start_Lng": -94.589613,
+        "Temperaturef": "48.0",
+        "Street": "I-29 S"
+    },
+    {
+        "State": "WV",
+        "Start_Lat": 39.64973,
+        "Start_Lng": -79.89278,
+        "Temperaturef": "84.9",
+        "Street": "I-68 W"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.106256,
+        "Start_Lng": -94.573061,
+        "Temperaturef": "48.0",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.13156,
+        "Start_Lng": -79.030934,
+        "Temperaturef": "82.0",
+        "Street": "I-81 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.388219,
+        "Start_Lng": -82.473727,
+        "Temperaturef": "85.0",
+        "Street": " University Pkwy"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.800004,
+        "Start_Lng": -96.792771,
+        "Temperaturef": "92.0",
+        "Street": " McCoy Pl"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.409659,
+        "Start_Lng": -81.24334300000002,
+        "Temperaturef": "78.0",
+        "Street": " Narcoossee Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.749671,
+        "Start_Lng": -117.105691,
+        "Temperaturef": "70.0",
+        "Street": " Marlborough Ave"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.171362,
+        "Start_Lng": -110.962814,
+        "Temperaturef": "76.0",
+        "Street": " S 2nd Ave"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 39.949808000000004,
+        "Start_Lng": -83.02289300000002,
+        "Temperaturef": "46.4",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 43.107637,
+        "Start_Lng": -77.572177,
+        "Temperaturef": "44.0",
+        "Street": "I-590 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.701719,
+        "Start_Lng": -121.887656,
+        "Temperaturef": "81.0",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.087965999999998,
+        "Start_Lng": -82.461412,
+        "Temperaturef": "72.0",
+        "Street": " W Bearss Ave"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.705081,
+        "Start_Lng": -122.35353799999999,
+        "Temperaturef": "68.0",
+        "Street": " N 105th St"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.870329,
+        "Start_Lng": -84.28100400000002,
+        "Temperaturef": "78.0",
+        "Street": "I-40 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.412528,
+        "Start_Lng": -118.578295,
+        "Temperaturef": "92.0",
+        "Street": "Golden State Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.755505,
+        "Start_Lng": -82.676773,
+        "Temperaturef": "71.0",
+        "Street": "I-275 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 41.530433,
+        "Start_Lng": -122.276276,
+        "Temperaturef": "61.0",
+        "Street": " State Highway 97"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.677427,
+        "Start_Lng": -77.233509,
+        "Temperaturef": "33.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.65023,
+        "Start_Lng": -117.06618999999999,
+        "Temperaturef": "61.0",
+        "Street": "I-805 S"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.994446000000003,
+        "Start_Lng": -90.099002,
+        "Temperaturef": "80.0",
+        "Street": "I-610 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.834196999999996,
+        "Start_Lng": -96.89755699999999,
+        "Temperaturef": "55.0",
+        "Street": "Airport Fwy E"
+    },
+    {
+        "State": "IA",
+        "Start_Lat": 42.226649,
+        "Start_Lng": -91.86399499999999,
+        "Temperaturef": "71.0",
+        "Street": "I-380 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.87141,
+        "Start_Lng": -117.74003,
+        "Temperaturef": "78.1",
+        "Street": "CA-91 W"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.914326,
+        "Start_Lng": -104.857076,
+        "Temperaturef": "52.0",
+        "Street": "US-85 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.253957,
+        "Start_Lng": -117.167736,
+        "Temperaturef": "65.0",
+        "Street": " Lake View Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.335684,
+        "Start_Lng": -117.159007,
+        "Temperaturef": "70.0",
+        "Street": "Escondido Fwy N"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.696523,
+        "Start_Lng": -73.98003299999998,
+        "Temperaturef": "70.0",
+        "Street": " Park Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.70644,
+        "Start_Lng": -117.779,
+        "Temperaturef": "59.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.081317999999996,
+        "Start_Lng": -75.408265,
+        "Temperaturef": "57.2",
+        "Street": "US-422 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.637159999999994,
+        "Start_Lng": -96.82311999999999,
+        "Temperaturef": "66.2",
+        "Street": "US-77 N"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 42.443369,
+        "Start_Lng": -122.8315,
+        "Temperaturef": "81.0",
+        "Street": " Crater Lake Hwy"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.80594,
+        "Start_Lng": -73.2412,
+        "Temperaturef": "48.0",
+        "Street": "Long Island Expy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.496024,
+        "Start_Lng": -121.450015,
+        "Temperaturef": "101.0",
+        "Street": " Florin Rd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.79652,
+        "Start_Lng": -77.19074300000003,
+        "Temperaturef": "42.0",
+        "Street": "Capital Beltway N"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.059893,
+        "Start_Lng": -95.975571,
+        "Temperaturef": "82.0",
+        "Street": " Riverside Pkwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.334222,
+        "Start_Lng": -122.04143899999998,
+        "Temperaturef": "",
+        "Street": "I-280 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 40.947889,
+        "Start_Lng": -123.630126,
+        "Temperaturef": "51.0",
+        "Street": " Patterson Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.016546999999996,
+        "Start_Lng": -121.09806699999999,
+        "Temperaturef": "63.0",
+        "Street": " E Highway 26"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.135725,
+        "Start_Lng": -117.39226699999999,
+        "Temperaturef": "95.0",
+        "Street": "Ayala Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.845910999999997,
+        "Start_Lng": -80.248182,
+        "Temperaturef": "75.0",
+        "Street": " NW 79th St"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.385908,
+        "Start_Lng": -83.475226,
+        "Temperaturef": "84.0",
+        "Street": "M-14 E"
+    },
+    {
+        "State": "NH",
+        "Start_Lat": 43.02322,
+        "Start_Lng": -71.20833,
+        "Temperaturef": "27.0",
+        "Street": "NH-101 W"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.439262,
+        "Start_Lng": -91.11069,
+        "Temperaturef": "83.0",
+        "Street": " Lobdell Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.741805,
+        "Start_Lng": -117.83391999999999,
+        "Temperaturef": "61.0",
+        "Street": "CA-55 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.63787,
+        "Start_Lng": -117.05174,
+        "Temperaturef": "73.0",
+        "Street": "I-805 S"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.30798400000001,
+        "Start_Lng": -73.03313299999998,
+        "Temperaturef": "34.0",
+        "Street": "CT-15 S"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 43.108235,
+        "Start_Lng": -77.616805,
+        "Temperaturef": "77.0",
+        "Street": "I-390 N"
+    },
+    {
+        "State": "NV",
+        "Start_Lat": 39.526416,
+        "Start_Lng": -119.85688,
+        "Temperaturef": "92.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.734170000000002,
+        "Start_Lng": -80.302918,
+        "Temperaturef": "80.0",
+        "Street": " SW 39th Ter"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.52172,
+        "Start_Lng": -121.45943799999999,
+        "Temperaturef": "51.0",
+        "Street": " 34th Ave"
+    },
+    {
+        "State": "NV",
+        "Start_Lat": 36.173211,
+        "Start_Lng": -115.28698,
+        "Temperaturef": "62.1",
+        "Street": " S Rampart Blvd"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.388495000000002,
+        "Start_Lng": -91.04486999999999,
+        "Temperaturef": "66.0",
+        "Street": "Lakeland Park Blvd"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.098957,
+        "Start_Lng": -94.572769,
+        "Temperaturef": "76.0",
+        "Street": "Bruce R. Watkins Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.51685800000001,
+        "Start_Lng": -81.31045300000002,
+        "Temperaturef": "87.0",
+        "Street": " S Semoran Blvd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 33.029319,
+        "Start_Lng": -96.708667,
+        "Temperaturef": "73.0",
+        "Street": "US-75 N"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.870645,
+        "Start_Lng": -82.421261,
+        "Temperaturef": "83.0",
+        "Street": " Cedar Lane Rd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.231944,
+        "Start_Lng": -76.940184,
+        "Temperaturef": "64.0",
+        "Street": "Harrisburg Expy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.33129,
+        "Start_Lng": -118.50731,
+        "Temperaturef": "57.2",
+        "Street": "Golden State Fwy S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.715069,
+        "Start_Lng": -77.468583,
+        "Temperaturef": "51.0",
+        "Street": "Prince William Pkwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.745774,
+        "Start_Lng": -119.80594199999999,
+        "Temperaturef": "59.0",
+        "Street": "CA-180 W"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.381033,
+        "Start_Lng": -111.82606799999999,
+        "Temperaturef": "23.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.94119,
+        "Start_Lng": -117.23808999999999,
+        "Temperaturef": "67.1",
+        "Street": "CA-60 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.98894,
+        "Start_Lng": -121.985436,
+        "Temperaturef": "63.0",
+        "Street": " Paul Sweet Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.633092,
+        "Start_Lng": -121.21222399999999,
+        "Temperaturef": "31.0",
+        "Street": "I-84 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 39.977913,
+        "Start_Lng": -75.11144399999998,
+        "Temperaturef": "75.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.888227,
+        "Start_Lng": -76.898516,
+        "Temperaturef": "49.0",
+        "Street": " Addison Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.535090000000004,
+        "Start_Lng": -81.40001,
+        "Temperaturef": "82.0",
+        "Street": "E West Expy E"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.810931,
+        "Start_Lng": -77.24385,
+        "Temperaturef": "79.0",
+        "Street": " Braddock Rd"
+    },
+    {
+        "State": "DE",
+        "Start_Lat": 39.562472,
+        "Start_Lng": -75.663569,
+        "Temperaturef": "49.0",
+        "Street": "DE-1 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.8094,
+        "Start_Lng": -95.30959,
+        "Temperaturef": "84.2",
+        "Street": "I-610 E"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.760514,
+        "Start_Lng": -73.756467,
+        "Temperaturef": "68.0",
+        "Street": "Loudon Rd"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.68257,
+        "Start_Lng": -73.57204,
+        "Temperaturef": "69.1",
+        "Street": "Meadowbrook Pkwy N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.583888,
+        "Start_Lng": -77.330663,
+        "Temperaturef": "52.0",
+        "Street": " Van Buren Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.428528,
+        "Start_Lng": -120.605553,
+        "Temperaturef": "80.0",
+        "Street": " Asuncion Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.03178,
+        "Start_Lng": -117.75851999999999,
+        "Temperaturef": "64.4",
+        "Street": "Rio Rancho Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.00056,
+        "Start_Lng": -118.28083000000001,
+        "Temperaturef": "78.1",
+        "Street": "Harbor Fwy N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.08132,
+        "Start_Lng": -80.36142,
+        "Temperaturef": "79.0",
+        "Street": "I-75 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.539029,
+        "Start_Lng": -81.377402,
+        "Temperaturef": "75.0",
+        "Street": " S Magnolia Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.77324,
+        "Start_Lng": -118.03928,
+        "Temperaturef": "53.6",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.154788,
+        "Start_Lng": -81.351946,
+        "Temperaturef": "80.0",
+        "Street": "Alligator Aly W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.778011,
+        "Start_Lng": -80.16484200000002,
+        "Temperaturef": "82.0",
+        "Street": "MacArthur Cswy W"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.02901,
+        "Start_Lng": -92.608285,
+        "Temperaturef": "32.0",
+        "Street": " County Road 3 NW"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.065542,
+        "Start_Lng": -77.58694,
+        "Temperaturef": "71.0",
+        "Street": "I-85 S"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.752175,
+        "Start_Lng": -72.65555,
+        "Temperaturef": "44.0",
+        "Street": "CT-15 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.326844,
+        "Start_Lng": -82.769725,
+        "Temperaturef": "75.0",
+        "Street": " SE State Road 24"
+    },
+    {
+        "State": "DE",
+        "Start_Lat": 38.78841,
+        "Start_Lng": -75.247548,
+        "Temperaturef": "53.0",
+        "Street": " Coastal Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.31731,
+        "Start_Lng": -121.93597,
+        "Temperaturef": "90.0",
+        "Street": "MacArthur Ave"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.00598400000001,
+        "Start_Lng": -88.14471999999998,
+        "Temperaturef": "18.0",
+        "Street": " Barrington Rd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.448153999999995,
+        "Start_Lng": -77.423175,
+        "Temperaturef": "59.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.176365999999994,
+        "Start_Lng": -110.912778,
+        "Temperaturef": "108.0",
+        "Street": " E Ajo Way"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.764585999999998,
+        "Start_Lng": -80.303949,
+        "Temperaturef": "85.0",
+        "Street": " SW 67th Ave"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.719590000000004,
+        "Start_Lng": -84.64898000000002,
+        "Temperaturef": "59.0",
+        "Street": "I-496 E"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.020023,
+        "Start_Lng": -89.962345,
+        "Temperaturef": "85.0",
+        "Street": " Chef Menteur Hwy"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 42.118179,
+        "Start_Lng": -124.306068,
+        "Temperaturef": "54.0",
+        "Street": " Carpenterville Rd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.81199,
+        "Start_Lng": -96.861772,
+        "Temperaturef": "55.0",
+        "Street": "US-77 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.025859999999994,
+        "Start_Lng": -122.25947,
+        "Temperaturef": "63.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.200108,
+        "Start_Lng": -76.809386,
+        "Temperaturef": "61.0",
+        "Street": "I-76 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.03132,
+        "Start_Lng": -118.41318700000001,
+        "Temperaturef": "52.0",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.495008,
+        "Start_Lng": -112.12778200000001,
+        "Temperaturef": "91.0",
+        "Street": " W Indian School Rd"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.41935,
+        "Start_Lng": -91.120873,
+        "Temperaturef": "50.0",
+        "Street": "I-12 E"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.509152,
+        "Start_Lng": -122.72961299999999,
+        "Temperaturef": "64.0",
+        "Street": "Sunset Hwy E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.257471000000002,
+        "Start_Lng": -81.403461,
+        "Temperaturef": "78.0",
+        "Street": "J Turner Butler Blvd W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.893901,
+        "Start_Lng": -82.719418,
+        "Temperaturef": "86.0",
+        "Street": " Ulmerton Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.221613,
+        "Start_Lng": -87.84804100000002,
+        "Temperaturef": "89.0",
+        "Street": " S Skokie Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.795338,
+        "Start_Lng": -121.01733999999999,
+        "Temperaturef": "77.0",
+        "Street": " Salmon Falls Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.26933,
+        "Start_Lng": -82.45105,
+        "Temperaturef": "72.0",
+        "Street": "Clark Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.484263000000002,
+        "Start_Lng": -82.244179,
+        "Temperaturef": "82.0",
+        "Street": "NW 230th St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.890732999999997,
+        "Start_Lng": -80.163416,
+        "Temperaturef": "76.0",
+        "Street": " NE 124th St"
+    },
+    {
+        "State": "NM",
+        "Start_Lat": 35.489168,
+        "Start_Lng": -108.476329,
+        "Temperaturef": "26.0",
+        "Street": "Historic US 66 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.75544,
+        "Start_Lng": -80.20135400000002,
+        "Temperaturef": "86.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 35.263559,
+        "Start_Lng": -112.04640500000001,
+        "Temperaturef": "31.0",
+        "Street": "Purple Heart Trail"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 32.7998,
+        "Start_Lng": -86.579614,
+        "Temperaturef": "72.0",
+        "Street": "I-65 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.774156,
+        "Start_Lng": -80.320252,
+        "Temperaturef": "75.0",
+        "Street": "Palmetto Expy N"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.507612,
+        "Start_Lng": -122.68421299999999,
+        "Temperaturef": "73.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.748973,
+        "Start_Lng": -80.343715,
+        "Temperaturef": "86.0",
+        "Street": " SW 92nd Ave"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 39.074852,
+        "Start_Lng": -78.16726,
+        "Temperaturef": "55.0",
+        "Street": " Fairfax Pike"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.714627,
+        "Start_Lng": -80.413201,
+        "Temperaturef": "86.0",
+        "Street": " SW 56th St"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.387316999999996,
+        "Start_Lng": -80.014236,
+        "Temperaturef": "57.0",
+        "Street": " N Rolling Rd"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.200655,
+        "Start_Lng": -74.627818,
+        "Temperaturef": "63.0",
+        "Street": "I-195 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.07145,
+        "Start_Lng": -117.86818999999998,
+        "Temperaturef": "66.2",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.062008,
+        "Start_Lng": -88.265491,
+        "Temperaturef": "21.9",
+        "Street": " Dundee Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.065353,
+        "Start_Lng": -82.738771,
+        "Temperaturef": "78.0",
+        "Street": " US Highway 19 N"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.417223,
+        "Start_Lng": -91.097589,
+        "Temperaturef": "82.0",
+        "Street": "I-12 W"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 45.565533,
+        "Start_Lng": -111.115051,
+        "Temperaturef": "30.0",
+        "Street": " Cottonwood Rd"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 35.45653400000001,
+        "Start_Lng": -96.906487,
+        "Temperaturef": "57.7",
+        "Street": " N Harrison"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.375671,
+        "Start_Lng": -97.659826,
+        "Temperaturef": "82.0",
+        "Street": " Dessau Rd"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.380395,
+        "Start_Lng": -83.21710999999998,
+        "Temperaturef": "28.4",
+        "Street": "MI-39 N"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 39.863301,
+        "Start_Lng": -75.07813,
+        "Temperaturef": "72.0",
+        "Street": " S Black Horse Pike"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.910027,
+        "Start_Lng": -117.14825400000001,
+        "Temperaturef": "56.0",
+        "Street": "Reagan Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.58719,
+        "Start_Lng": -122.34835,
+        "Temperaturef": "64.0",
+        "Street": "US-101 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.826432,
+        "Start_Lng": -82.674257,
+        "Temperaturef": "74.0",
+        "Street": "Star Mobile Home Park"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.546287,
+        "Start_Lng": -121.45356000000001,
+        "Temperaturef": "94.0",
+        "Street": " Stockton Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.145237,
+        "Start_Lng": -118.210075,
+        "Temperaturef": "49.0",
+        "Street": "CA-134 W"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.842484000000006,
+        "Start_Lng": -78.679789,
+        "Temperaturef": "40.0",
+        "Street": " Glenwood Ave"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.150338,
+        "Start_Lng": -81.162908,
+        "Temperaturef": "79.0",
+        "Street": " Low Country Hwy"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 43.074596,
+        "Start_Lng": -76.17105500000002,
+        "Temperaturef": "67.0",
+        "Street": "I-81 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.119388,
+        "Start_Lng": -110.88683300000001,
+        "Temperaturef": "91.0",
+        "Street": " E Los Reales Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.735485,
+        "Start_Lng": -121.82026200000001,
+        "Temperaturef": "",
+        "Street": "County Road 17"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.197782000000004,
+        "Start_Lng": -118.474207,
+        "Temperaturef": "84.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.388571,
+        "Start_Lng": -119.21913500000001,
+        "Temperaturef": "93.0",
+        "Street": " Manzanita Rd"
+    },
+    {
+        "State": "DC",
+        "Start_Lat": 38.90589,
+        "Start_Lng": -77.07928000000003,
+        "Temperaturef": "36.0",
+        "Street": " Foxhall Rd NW"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.70227,
+        "Start_Lng": -121.74506000000001,
+        "Temperaturef": "48.9",
+        "Street": "I-580 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.281131,
+        "Start_Lng": -118.175101,
+        "Temperaturef": "100.0",
+        "Street": "Angeles Forest Hwy"
+    },
+    {
+        "State": "ID",
+        "Start_Lat": 43.226319000000004,
+        "Start_Lng": -112.339335,
+        "Temperaturef": "99.0",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 34.042753000000005,
+        "Start_Lng": -84.031758,
+        "Temperaturef": "38.0",
+        "Street": "GA-403 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.939743,
+        "Start_Lng": -87.156438,
+        "Temperaturef": "78.0",
+        "Street": " Alabama St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.928187,
+        "Start_Lng": -118.239401,
+        "Temperaturef": "56.0",
+        "Street": "Glenn Anderson Fwy E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.648707,
+        "Start_Lng": -78.198183,
+        "Temperaturef": "65.0",
+        "Street": " Birmingham Pike"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.642219,
+        "Start_Lng": -74.205069,
+        "Temperaturef": "73.0",
+        "Street": "New Jersey Tpke N"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.737929,
+        "Start_Lng": -92.99176,
+        "Temperaturef": "10.0",
+        "Street": "I-35 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.824773,
+        "Start_Lng": -118.225076,
+        "Temperaturef": "80.0",
+        "Street": "E 223rd St"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.688486,
+        "Start_Lng": -124.06361299999999,
+        "Temperaturef": "63.0",
+        "Street": " N Coast Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.997955,
+        "Start_Lng": -118.17646200000001,
+        "Temperaturef": "54.0",
+        "Street": "I-710 N"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.822599,
+        "Start_Lng": -84.116851,
+        "Temperaturef": "79.0",
+        "Street": "Stone Mountain Byp"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.158301,
+        "Start_Lng": -86.759909,
+        "Temperaturef": "69.0",
+        "Street": "I-24 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.453528999999996,
+        "Start_Lng": -122.622755,
+        "Temperaturef": "72.0",
+        "Street": " Highway 12"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.142918,
+        "Start_Lng": -123.115082,
+        "Temperaturef": "89.0",
+        "Street": " SE Lafayette Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.539576000000004,
+        "Start_Lng": -117.146368,
+        "Temperaturef": "81.0",
+        "Street": " Nicolas Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.47782,
+        "Start_Lng": -121.42671000000001,
+        "Temperaturef": "70.0",
+        "Street": "CA-99 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.846959999999996,
+        "Start_Lng": -117.86873999999999,
+        "Temperaturef": "61.0",
+        "Street": "CA-91 W"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.004315999999996,
+        "Start_Lng": -75.820953,
+        "Temperaturef": "39.0",
+        "Street": "Manor Rd"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.768568,
+        "Start_Lng": -93.799091,
+        "Temperaturef": "63.0",
+        "Street": "County Hwy-36"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.684870999999998,
+        "Start_Lng": -80.400574,
+        "Temperaturef": "85.0",
+        "Street": "SW 127th Ave"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.140935,
+        "Start_Lng": -80.353709,
+        "Temperaturef": "73.0",
+        "Street": "I-81 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.787420000000004,
+        "Start_Lng": -122.2481,
+        "Temperaturef": "59.0",
+        "Street": "Nimitz Fwy S"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 41.231918,
+        "Start_Lng": -78.549877,
+        "Temperaturef": "78.1",
+        "Street": " Mill Run Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.93845,
+        "Start_Lng": -80.15392,
+        "Temperaturef": "73.4",
+        "Street": "Ronald Reagan Tpke"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.427861,
+        "Start_Lng": -122.57841,
+        "Temperaturef": "42.0",
+        "Street": " SE 82nd Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.80272,
+        "Start_Lng": -118.13193000000001,
+        "Temperaturef": "64.0",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.027947,
+        "Start_Lng": -94.253253,
+        "Temperaturef": "87.1",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.067269,
+        "Start_Lng": -117.98305800000001,
+        "Temperaturef": "77.0",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.16127,
+        "Start_Lng": -94.49667,
+        "Temperaturef": "50.0",
+        "Street": "I-435 S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.43443900000001,
+        "Start_Lng": -74.30165500000003,
+        "Temperaturef": "31.0",
+        "Street": "US Highway 9"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.987406,
+        "Start_Lng": -118.170382,
+        "Temperaturef": "77.0",
+        "Street": "Long Beach Fwy S"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.46498,
+        "Start_Lng": -83.10772,
+        "Temperaturef": "46.0",
+        "Street": "Chrysler Expy S"
+    },
+    {
+        "State": "DE",
+        "Start_Lat": 39.756896999999995,
+        "Start_Lng": -75.552585,
+        "Temperaturef": "89.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.95016,
+        "Start_Lng": -93.1038,
+        "Temperaturef": "59.0",
+        "Street": "US-52 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.201728,
+        "Start_Lng": -118.18924799999999,
+        "Temperaturef": "",
+        "Street": "Gould Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.811783000000002,
+        "Start_Lng": -81.363558,
+        "Temperaturef": "61.0",
+        "Street": " W State Road 46"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.66095,
+        "Start_Lng": -96.86784,
+        "Temperaturef": "62.0",
+        "Street": " Saint George Dr"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.415735,
+        "Start_Lng": -81.709216,
+        "Temperaturef": "",
+        "Street": "I-26 W"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.738163,
+        "Start_Lng": -73.669297,
+        "Temperaturef": "77.0",
+        "Street": " Hoosick St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.67235,
+        "Start_Lng": -121.32924399999999,
+        "Temperaturef": "81.0",
+        "Street": " Auburn Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.656104,
+        "Start_Lng": -81.663002,
+        "Temperaturef": "76.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.210347999999996,
+        "Start_Lng": -80.758211,
+        "Temperaturef": "78.0",
+        "Street": " Central Ave"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.71331,
+        "Start_Lng": -73.95411,
+        "Temperaturef": "55.4",
+        "Street": "Brooklyn Queens Expy"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 41.972775,
+        "Start_Lng": -77.242099,
+        "Temperaturef": "74.0",
+        "Street": "PA-49"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 41.641908,
+        "Start_Lng": -76.14701099999998,
+        "Temperaturef": "74.0",
+        "Street": " Grand Army of the Republic Hwy"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.50201,
+        "Start_Lng": -84.22675,
+        "Temperaturef": "73.0",
+        "Street": "I-75 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.702746,
+        "Start_Lng": -95.297302,
+        "Temperaturef": "86.0",
+        "Street": " Gulf Fwy"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.037284,
+        "Start_Lng": -85.10929300000002,
+        "Temperaturef": "53.0",
+        "Street": "Standifer Gap Rd"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 39.11331,
+        "Start_Lng": -84.53165,
+        "Temperaturef": "77.0",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.734217,
+        "Start_Lng": -80.335882,
+        "Temperaturef": "66.0",
+        "Street": " SW 87th Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.831001,
+        "Start_Lng": -121.217648,
+        "Temperaturef": "85.0",
+        "Street": "CA-99 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.33354000000001,
+        "Start_Lng": -81.527728,
+        "Temperaturef": "68.0",
+        "Street": " Mallory Cir"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.729805999999996,
+        "Start_Lng": -121.41101100000002,
+        "Temperaturef": "86.0",
+        "Street": " Tan Woods Rd"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.654826,
+        "Start_Lng": -79.437113,
+        "Temperaturef": "32.0",
+        "Street": " S State Highway 41-51"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 30.674893,
+        "Start_Lng": -87.982466,
+        "Temperaturef": "91.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.20688300000001,
+        "Start_Lng": -86.690368,
+        "Temperaturef": "37.0",
+        "Street": "Briley Pkwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.055323,
+        "Start_Lng": -118.183728,
+        "Temperaturef": "57.0",
+        "Street": " City Terrace Dr"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.935026,
+        "Start_Lng": -123.041327,
+        "Temperaturef": "46.0",
+        "Street": " Liberty St SE"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 37.207458,
+        "Start_Lng": -93.110919,
+        "Temperaturef": "82.0",
+        "Street": " Farm Road 134"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.573457,
+        "Start_Lng": -112.020174,
+        "Temperaturef": "75.0",
+        "Street": "Piestewa Fwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.77661,
+        "Start_Lng": -122.23622399999999,
+        "Temperaturef": "88.0",
+        "Street": "I-880 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.568831,
+        "Start_Lng": -121.469016,
+        "Temperaturef": "64.0",
+        "Street": "Capital City Fwy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.035408000000004,
+        "Start_Lng": -117.92253899999999,
+        "Temperaturef": "60.0",
+        "Street": " E Amar Rd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.599304,
+        "Start_Lng": -77.886781,
+        "Temperaturef": "67.0",
+        "Street": " Wesley Chapel Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.739785,
+        "Start_Lng": -121.590682,
+        "Temperaturef": "76.0",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.193645000000004,
+        "Start_Lng": -121.697723,
+        "Temperaturef": "68.0",
+        "Street": "S Valley Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.684259,
+        "Start_Lng": -81.798535,
+        "Temperaturef": "82.0",
+        "Street": "I-75 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.225032000000002,
+        "Start_Lng": -97.854912,
+        "Temperaturef": "",
+        "Street": " W William Cannon Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.119033,
+        "Start_Lng": -81.862411,
+        "Temperaturef": "58.0",
+        "Street": " SE 180th Avenue Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.757302,
+        "Start_Lng": -122.33586399999999,
+        "Temperaturef": "63.0",
+        "Street": "N Santiam Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.572219,
+        "Start_Lng": -122.315615,
+        "Temperaturef": "63.0",
+        "Street": "Bayshore Fwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.0412,
+        "Start_Lng": -118.06911000000001,
+        "Temperaturef": "104.0",
+        "Street": "Pomona Fwy E"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.8671,
+        "Start_Lng": -88.0275,
+        "Temperaturef": "52.0",
+        "Street": " W Wilson Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.90011,
+        "Start_Lng": -80.17076800000002,
+        "Temperaturef": "61.0",
+        "Street": " NE 14th Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.775438,
+        "Start_Lng": -118.087717,
+        "Temperaturef": "47.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "ND",
+        "Start_Lat": 46.878556,
+        "Start_Lng": -99.75613,
+        "Temperaturef": "12.0",
+        "Street": "I-94 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.92819,
+        "Start_Lng": -118.29621000000002,
+        "Temperaturef": "72.0",
+        "Street": "I-105 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.897648,
+        "Start_Lng": -80.3814,
+        "Temperaturef": "79.0",
+        "Street": " W Okeechobee Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.85373,
+        "Start_Lng": -117.91094,
+        "Temperaturef": "73.9",
+        "Street": "Riverside Fwy E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.806760999999998,
+        "Start_Lng": -95.263014,
+        "Temperaturef": "88.0",
+        "Street": " N McCarty St"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.664615999999995,
+        "Start_Lng": -73.845237,
+        "Temperaturef": "46.0",
+        "Street": "Belt Pkwy W"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.83863,
+        "Start_Lng": -97.18849,
+        "Temperaturef": "",
+        "Street": "TX-183 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.164429999999996,
+        "Start_Lng": -117.21258700000001,
+        "Temperaturef": "66.0",
+        "Street": "CA-78 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.69085,
+        "Start_Lng": -122.0851,
+        "Temperaturef": "64.0",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 41.570044,
+        "Start_Lng": -87.41920999999998,
+        "Temperaturef": "45.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.687554999999996,
+        "Start_Lng": -96.63594599999999,
+        "Temperaturef": "65.0",
+        "Street": "I-20 E"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 41.983905,
+        "Start_Lng": -112.19374499999999,
+        "Temperaturef": "72.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "NE",
+        "Start_Lat": 41.2082,
+        "Start_Lng": -95.94937,
+        "Temperaturef": "20.3",
+        "Street": "O St"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.194946,
+        "Start_Lng": -79.628434,
+        "Temperaturef": "90.0",
+        "Street": " Shulerville Rd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.969176000000004,
+        "Start_Lng": -76.541391,
+        "Temperaturef": "58.0",
+        "Street": " Montour Blvd"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.82281,
+        "Start_Lng": -84.49204,
+        "Temperaturef": "40.5",
+        "Street": "I-285 N"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.732377,
+        "Start_Lng": -73.92503,
+        "Temperaturef": "66.0",
+        "Street": "54th Ave"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.30917,
+        "Start_Lng": -93.58738199999999,
+        "Temperaturef": "88.0",
+        "Street": " Highway 10"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.916419,
+        "Start_Lng": -118.27615300000001,
+        "Temperaturef": "66.0",
+        "Street": " S Spring St"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.842289,
+        "Start_Lng": -77.451521,
+        "Temperaturef": "91.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 41.0991,
+        "Start_Lng": -74.161737,
+        "Temperaturef": "34.0",
+        "Street": "State Highway 17"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.932475,
+        "Start_Lng": -122.325972,
+        "Temperaturef": "43.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.16539,
+        "Start_Lng": -88.155665,
+        "Temperaturef": "47.0",
+        "Street": "Hart Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.810617,
+        "Start_Lng": -80.14191600000002,
+        "Temperaturef": "79.0",
+        "Street": "I-195 E"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.388729999999995,
+        "Start_Lng": -112.13363700000001,
+        "Temperaturef": "99.0",
+        "Street": " S 35th Ave"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.442355,
+        "Start_Lng": -87.042348,
+        "Temperaturef": "77.0",
+        "Street": " Pulaski Hwy"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.84979600000001,
+        "Start_Lng": -76.818562,
+        "Temperaturef": "71.0",
+        "Street": "N Susquehanna Trl"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.869679999999995,
+        "Start_Lng": -117.671545,
+        "Temperaturef": "67.0",
+        "Street": "CA-91 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.199415,
+        "Start_Lng": -76.760183,
+        "Temperaturef": "43.0",
+        "Street": "State Route 3032"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.925188000000002,
+        "Start_Lng": -80.155876,
+        "Temperaturef": "83.0",
+        "Street": " W Dixie Hwy"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.889895,
+        "Start_Lng": -93.403239,
+        "Temperaturef": "61.0",
+        "Street": "MN-62 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.91953,
+        "Start_Lng": -122.33178000000001,
+        "Temperaturef": "62.1",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.930847999999997,
+        "Start_Lng": -82.111915,
+        "Temperaturef": "86.0",
+        "Street": "County Road 475"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.681855999999996,
+        "Start_Lng": -90.215194,
+        "Temperaturef": "37.0",
+        "Street": "I-70 E"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.93039000000001,
+        "Start_Lng": -90.036875,
+        "Temperaturef": "62.0",
+        "Street": "General Degaulle Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.601564,
+        "Start_Lng": -81.386107,
+        "Temperaturef": "93.0",
+        "Street": "I-4 E"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 47.411031,
+        "Start_Lng": -114.09679299999999,
+        "Temperaturef": "83.0",
+        "Street": " US Highway 93"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.931441,
+        "Start_Lng": -77.479331,
+        "Temperaturef": "35.0",
+        "Street": " Rogers Clark Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.056495,
+        "Start_Lng": -118.002925,
+        "Temperaturef": "54.0",
+        "Street": "I-605 N"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 39.79351,
+        "Start_Lng": -86.03546999999998,
+        "Temperaturef": "62.6",
+        "Street": "IN-67 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.57513,
+        "Start_Lng": -121.5443,
+        "Temperaturef": "89.1",
+        "Street": "Capital City Fwy W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.75653300000001,
+        "Start_Lng": -120.56696399999998,
+        "Temperaturef": "",
+        "Street": " Gold Ridge Trl"
+    },
+    {
+        "State": "IA",
+        "Start_Lat": 41.526379999999996,
+        "Start_Lng": -90.51375999999999,
+        "Temperaturef": "16.0",
+        "Street": "I-74 E"
+    },
+    {
+        "State": "WI",
+        "Start_Lat": 43.050959999999996,
+        "Start_Lng": -88.3674,
+        "Temperaturef": "19.4",
+        "Street": "I-94 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.16924,
+        "Start_Lng": -118.46793999999998,
+        "Temperaturef": "68.0",
+        "Street": "I-405 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.677857,
+        "Start_Lng": -80.06952,
+        "Temperaturef": "79.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.03657,
+        "Start_Lng": -82.06232,
+        "Temperaturef": "77.0",
+        "Street": "I-4 E"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.44074,
+        "Start_Lng": -91.17801,
+        "Temperaturef": "68.0",
+        "Street": "I-110 N"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.193314,
+        "Start_Lng": -95.969943,
+        "Temperaturef": "57.0",
+        "Street": " N Trenton Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.222259,
+        "Start_Lng": -118.368526,
+        "Temperaturef": "57.0",
+        "Street": "Golden State Fwy N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.7889,
+        "Start_Lng": -96.79244,
+        "Temperaturef": "95.0",
+        "Street": " N Good Latimer Expy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.982944,
+        "Start_Lng": -121.89894299999999,
+        "Temperaturef": "43.0",
+        "Street": " Kirker Pass Rd"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 30.648661999999998,
+        "Start_Lng": -88.120795,
+        "Temperaturef": "76.0",
+        "Street": "I-65 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.39603,
+        "Start_Lng": -98.47563000000001,
+        "Temperaturef": "82.0",
+        "Street": " E Highland Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.393192,
+        "Start_Lng": -119.30103700000001,
+        "Temperaturef": "52.0",
+        "Street": " Ventura Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 41.235820000000004,
+        "Start_Lng": -122.269967,
+        "Temperaturef": "30.0",
+        "Street": "Siskiyou Ave"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.93893,
+        "Start_Lng": -95.37491999999999,
+        "Temperaturef": "90.0",
+        "Street": "N Sam Houston Tollway W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.80949,
+        "Start_Lng": -80.321496,
+        "Temperaturef": "74.0",
+        "Street": "Palmetto Expy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.552352,
+        "Start_Lng": -122.260729,
+        "Temperaturef": "59.0",
+        "Street": "Catamaran St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.678329999999995,
+        "Start_Lng": -117.88094,
+        "Temperaturef": "69.1",
+        "Street": "CA-55 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.37974,
+        "Start_Lng": -80.40783,
+        "Temperaturef": "72.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.870261,
+        "Start_Lng": -77.300201,
+        "Temperaturef": "88.0",
+        "Street": "I-66 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.184540000000005,
+        "Start_Lng": -117.43386000000001,
+        "Temperaturef": "59.0",
+        "Street": "Ontario Fwy S"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.896409999999996,
+        "Start_Lng": -87.64774,
+        "Temperaturef": "81.0",
+        "Street": "N Halsted St"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.415453,
+        "Start_Lng": -88.106822,
+        "Temperaturef": "27.0",
+        "Street": " W Grand Ave"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.291732,
+        "Start_Lng": -74.686199,
+        "Temperaturef": "57.0",
+        "Street": " US Highway 1"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 36.939744,
+        "Start_Lng": -76.26553,
+        "Temperaturef": "",
+        "Street": "I-64 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.494341999999996,
+        "Start_Lng": -122.37031200000001,
+        "Temperaturef": "55.4",
+        "Street": "San Mateo Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.063447,
+        "Start_Lng": -123.051778,
+        "Temperaturef": "62.0",
+        "Street": "I-105 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.408304,
+        "Start_Lng": -122.068556,
+        "Temperaturef": "57.0",
+        "Street": "Bayshore Fwy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.06787,
+        "Start_Lng": -117.51727,
+        "Temperaturef": "88.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "WI",
+        "Start_Lat": 43.013971999999995,
+        "Start_Lng": -88.219918,
+        "Temperaturef": "30.0",
+        "Street": " Rosemary St"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.086729,
+        "Start_Lng": -80.84573,
+        "Temperaturef": "76.0",
+        "Street": " Carmel Rd"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.7641,
+        "Start_Lng": -73.75849000000002,
+        "Temperaturef": "30.0",
+        "Street": "Cross Island Pkwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.51085,
+        "Start_Lng": -121.46033999999999,
+        "Temperaturef": "66.9",
+        "Street": "CA-99 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.164747,
+        "Start_Lng": -80.208112,
+        "Temperaturef": "83.0",
+        "Street": "W Oakland Park Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.81423,
+        "Start_Lng": -118.17156000000001,
+        "Temperaturef": "64.9",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.90354,
+        "Start_Lng": -80.21027,
+        "Temperaturef": "75.9",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 38.932651,
+        "Start_Lng": -104.790681,
+        "Temperaturef": "61.3",
+        "Street": " E Woodmen Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.891825,
+        "Start_Lng": -117.55578999999999,
+        "Temperaturef": "63.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.56749,
+        "Start_Lng": -84.32422,
+        "Temperaturef": "69.1",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.51957,
+        "Start_Lng": -117.16081000000001,
+        "Temperaturef": "87.8",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.867754,
+        "Start_Lng": -80.20987099999998,
+        "Temperaturef": "74.0",
+        "Street": " NW 101st St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.462462,
+        "Start_Lng": -82.57542,
+        "Temperaturef": "79.0",
+        "Street": "Cortez Rd W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.940783,
+        "Start_Lng": -80.30677299999998,
+        "Temperaturef": "82.0",
+        "Street": "Mediterranean Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.4857,
+        "Start_Lng": -81.459002,
+        "Temperaturef": "71.0",
+        "Street": " Windhover Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.32097000000001,
+        "Start_Lng": -81.706553,
+        "Temperaturef": "84.0",
+        "Street": "FL-8 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.714006,
+        "Start_Lng": -122.471631,
+        "Temperaturef": "63.0",
+        "Street": "Junipero Serra Blvd"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.12219,
+        "Start_Lng": -76.86657,
+        "Temperaturef": "51.8",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.786017,
+        "Start_Lng": -80.189243,
+        "Temperaturef": "80.0",
+        "Street": "I-395 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 41.255519,
+        "Start_Lng": -122.26753799999999,
+        "Temperaturef": "33.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.075447,
+        "Start_Lng": -75.35700600000001,
+        "Temperaturef": "69.0",
+        "Street": "I-76 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 40.290473,
+        "Start_Lng": -120.50141699999999,
+        "Temperaturef": "28.0",
+        "Street": "US Highway 395"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 31.572809999999997,
+        "Start_Lng": -83.54881,
+        "Temperaturef": "77.0",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.976285,
+        "Start_Lng": -121.90374399999999,
+        "Temperaturef": "67.0",
+        "Street": " Soquel Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.664920000000002,
+        "Start_Lng": -81.292186,
+        "Temperaturef": "76.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.73313,
+        "Start_Lng": -80.331649,
+        "Temperaturef": "81.0",
+        "Street": " Bird Rd"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.021321,
+        "Start_Lng": -91.79016800000001,
+        "Temperaturef": "54.0",
+        "Street": " Highway 14"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.189403999999996,
+        "Start_Lng": -119.81606799999999,
+        "Temperaturef": "77.0",
+        "Street": " Laurel Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.64015,
+        "Start_Lng": -122.0904,
+        "Temperaturef": "57.9",
+        "Street": "I-880 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.94942899999999,
+        "Start_Lng": -121.47890500000001,
+        "Temperaturef": "69.1",
+        "Street": " Cabrillo Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.316186,
+        "Start_Lng": -121.970924,
+        "Temperaturef": "66.0",
+        "Street": "I-280 S"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.080409,
+        "Start_Lng": -86.7219,
+        "Temperaturef": "80.0",
+        "Street": " Harding Pl"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 29.992815000000004,
+        "Start_Lng": -90.048869,
+        "Temperaturef": "51.0",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.42321,
+        "Start_Lng": -121.41025,
+        "Temperaturef": "55.0",
+        "Street": "I-90 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.246256,
+        "Start_Lng": -75.68818399999998,
+        "Temperaturef": "63.0",
+        "Street": " W High St"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.489813,
+        "Start_Lng": -73.67850899999998,
+        "Temperaturef": "66.0",
+        "Street": "I-90 W"
+    },
+    {
+        "State": "DC",
+        "Start_Lat": 38.871806,
+        "Start_Lng": -76.98214300000002,
+        "Temperaturef": "71.0",
+        "Street": "Anacostia Fwy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.00127,
+        "Start_Lng": -122.28231000000001,
+        "Temperaturef": "54.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.492684999999998,
+        "Start_Lng": -91.155548,
+        "Temperaturef": "72.0",
+        "Street": " Plank Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.429947,
+        "Start_Lng": -87.825671,
+        "Temperaturef": "82.9",
+        "Street": "N Sheridan Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.718058,
+        "Start_Lng": -119.23716,
+        "Temperaturef": "66.0",
+        "Street": "CA-99 N"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.440385,
+        "Start_Lng": -91.213436,
+        "Temperaturef": "69.0",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.833119,
+        "Start_Lng": -121.695021,
+        "Temperaturef": "55.0",
+        "Street": " Hidden Valley Rd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.347644,
+        "Start_Lng": -97.556117,
+        "Temperaturef": "82.0",
+        "Street": " Lexington St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.997728,
+        "Start_Lng": -121.805924,
+        "Temperaturef": "62.0",
+        "Street": "A St"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 32.406376,
+        "Start_Lng": -93.800049,
+        "Temperaturef": "52.0",
+        "Street": "Mansfield Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.940382999999997,
+        "Start_Lng": -80.191086,
+        "Temperaturef": "77.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.937618,
+        "Start_Lng": -82.311123,
+        "Temperaturef": "77.0",
+        "Street": " W Brandon Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.949533,
+        "Start_Lng": -121.29680800000001,
+        "Temperaturef": "80.0",
+        "Street": "W Washington St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.119294000000004,
+        "Start_Lng": -121.626065,
+        "Temperaturef": "57.0",
+        "Street": "Tennant Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.359655,
+        "Start_Lng": -81.55390600000001,
+        "Temperaturef": "70.0",
+        "Street": "Southside Connector N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.319936,
+        "Start_Lng": -81.724274,
+        "Temperaturef": "86.0",
+        "Street": "FL-8 W"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.79807,
+        "Start_Lng": -105.777257,
+        "Temperaturef": "46.0",
+        "Street": " US Highway 40"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.013248,
+        "Start_Lng": -77.133258,
+        "Temperaturef": "50.0",
+        "Street": "Capital Beltway S"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.34558,
+        "Start_Lng": -87.91979,
+        "Temperaturef": "26.1",
+        "Street": "Belvidere Rd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.93495,
+        "Start_Lng": -96.75236,
+        "Temperaturef": "30.2",
+        "Street": "US-75 S"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.38268400000001,
+        "Start_Lng": -76.389044,
+        "Temperaturef": "55.0",
+        "Street": " Mount Zion Rd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.924452,
+        "Start_Lng": -96.765774,
+        "Temperaturef": "54.0",
+        "Street": "I-635 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.945245,
+        "Start_Lng": -117.24286000000001,
+        "Temperaturef": "78.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.527236,
+        "Start_Lng": -121.33488999999999,
+        "Temperaturef": "43.0",
+        "Street": " Bradshaw Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.950284999999997,
+        "Start_Lng": -82.51456400000002,
+        "Temperaturef": "74.0",
+        "Street": "I-275 N"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 38.27163,
+        "Start_Lng": -104.60469,
+        "Temperaturef": "21.9",
+        "Street": "US-87 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.781062,
+        "Start_Lng": -122.395537,
+        "Temperaturef": "60.0",
+        "Street": " Taber Pl"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 42.19715,
+        "Start_Lng": -88.01881999999998,
+        "Temperaturef": "68.0",
+        "Street": " W State Route 22"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.927298999999998,
+        "Start_Lng": -80.18821700000002,
+        "Temperaturef": "77.0",
+        "Street": " NE 6th Ave"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.382734999999997,
+        "Start_Lng": -97.688299,
+        "Temperaturef": "96.0",
+        "Street": " W Braker Ln"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.165946000000005,
+        "Start_Lng": -118.46968000000001,
+        "Temperaturef": "68.0",
+        "Street": "I-405 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.77948,
+        "Start_Lng": -96.78003000000001,
+        "Temperaturef": "87.1",
+        "Street": "S Malcolm X Blvd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.137465,
+        "Start_Lng": -76.211325,
+        "Temperaturef": "32.0",
+        "Street": " Oregon Pike"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.253053,
+        "Start_Lng": -117.178,
+        "Temperaturef": "64.0",
+        "Street": " Gopher Canyon Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.738153000000004,
+        "Start_Lng": -121.60498500000001,
+        "Temperaturef": "48.0",
+        "Street": "I-580 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.068090000000005,
+        "Start_Lng": -118.02841000000001,
+        "Temperaturef": "71.6",
+        "Street": "I-10 W"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.770421999999996,
+        "Start_Lng": -73.86863199999998,
+        "Temperaturef": "60.0",
+        "Street": "Grand Central Pkwy E"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.923932,
+        "Start_Lng": -84.185069,
+        "Temperaturef": "73.0",
+        "Street": "GA-403 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.110890999999995,
+        "Start_Lng": -117.52638200000001,
+        "Temperaturef": "54.0",
+        "Street": "I-15 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.998798999999998,
+        "Start_Lng": -80.166514,
+        "Temperaturef": "77.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.611515000000004,
+        "Start_Lng": -117.703653,
+        "Temperaturef": "70.0",
+        "Street": "San Diego Fwy S"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.759519,
+        "Start_Lng": -72.64109300000001,
+        "Temperaturef": "77.0",
+        "Street": "CT-15 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.97446,
+        "Start_Lng": -96.71684,
+        "Temperaturef": "53.6",
+        "Street": "US-75 S"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 39.701257,
+        "Start_Lng": -84.20776,
+        "Temperaturef": "44.0",
+        "Street": " Kettering Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 40.39595300000001,
+        "Start_Lng": -123.43528799999999,
+        "Temperaturef": "",
+        "Street": "S Fork Mountain Rd"
+    },
+    {
+        "State": "KY",
+        "Start_Lat": 37.994671999999994,
+        "Start_Lng": -84.587158,
+        "Temperaturef": "84.9",
+        "Street": "Harrodsburg Rd"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 39.871521,
+        "Start_Lng": -74.92199000000002,
+        "Temperaturef": "48.0",
+        "Street": " Route 73 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.265341,
+        "Start_Lng": -110.891814,
+        "Temperaturef": "84.0",
+        "Street": " E Camp Lowell Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.314059999999998,
+        "Start_Lng": -81.664202,
+        "Temperaturef": "79.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 35.42694,
+        "Start_Lng": -119.068947,
+        "Temperaturef": "59.0",
+        "Street": " Snow Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.988932,
+        "Start_Lng": -117.361108,
+        "Temperaturef": "67.0",
+        "Street": "CA-91 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.674954,
+        "Start_Lng": -82.678062,
+        "Temperaturef": "71.0",
+        "Street": "I-275 S"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.049896999999994,
+        "Start_Lng": -95.886306,
+        "Temperaturef": "74.0",
+        "Street": " S Memorial Dr"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.719590999999994,
+        "Start_Lng": -111.849521,
+        "Temperaturef": "69.0",
+        "Street": "I-80 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.524638,
+        "Start_Lng": -81.870884,
+        "Temperaturef": "79.0",
+        "Street": " S Tamiami Trl"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 40.37466,
+        "Start_Lng": -86.78401,
+        "Temperaturef": "30.0",
+        "Street": "I-65 N"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 41.0321,
+        "Start_Lng": -73.72348000000002,
+        "Temperaturef": "75.2",
+        "Street": "I-684 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.148878,
+        "Start_Lng": -118.157211,
+        "Temperaturef": "",
+        "Street": "CA-134 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.494206,
+        "Start_Lng": -87.23003100000004,
+        "Temperaturef": "91.0",
+        "Street": "I-110 N"
+    },
+    {
+        "State": "NV",
+        "Start_Lat": 36.765574,
+        "Start_Lng": -114.13417199999999,
+        "Temperaturef": "",
+        "Street": " Riverside Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.922376,
+        "Start_Lng": -123.009914,
+        "Temperaturef": "42.0",
+        "Street": " Mission St SE"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.42243,
+        "Start_Lng": -121.48642,
+        "Temperaturef": "96.1",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.054001,
+        "Start_Lng": -75.429822,
+        "Temperaturef": "84.0",
+        "Street": "NY-17 E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.219361,
+        "Start_Lng": -75.246643,
+        "Temperaturef": "76.0",
+        "Street": " Welsh Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.141131,
+        "Start_Lng": -121.07125800000001,
+        "Temperaturef": "45.0",
+        "Street": " State Highway 49"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 36.110552,
+        "Start_Lng": -78.718334,
+        "Temperaturef": "55.0",
+        "Street": " US Highway 15"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.512417,
+        "Start_Lng": -80.172523,
+        "Temperaturef": "79.0",
+        "Street": "Florida's Tpke N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.910488,
+        "Start_Lng": -117.88369099999998,
+        "Temperaturef": "75.0",
+        "Street": "CA-57 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.76384,
+        "Start_Lng": -121.96803,
+        "Temperaturef": "73.0",
+        "Street": "I-680 S"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 41.085454999999996,
+        "Start_Lng": -111.23653300000001,
+        "Temperaturef": "",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.795747,
+        "Start_Lng": -122.25383799999999,
+        "Temperaturef": "60.0",
+        "Street": " International Blvd"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.6632,
+        "Start_Lng": -112.32733999999999,
+        "Temperaturef": "71.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.389787,
+        "Start_Lng": -76.722043,
+        "Temperaturef": "",
+        "Street": "I-695 E"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.38471,
+        "Start_Lng": -83.24283,
+        "Temperaturef": "34.5",
+        "Street": "I-96 E"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.965053999999995,
+        "Start_Lng": -79.58025699999997,
+        "Temperaturef": "86.0",
+        "Street": " Big Swamp Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 43.195848,
+        "Start_Lng": -123.360717,
+        "Temperaturef": "81.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.24727,
+        "Start_Lng": -81.59535,
+        "Temperaturef": "84.0",
+        "Street": "J Turner Butler Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.760259000000005,
+        "Start_Lng": -120.299144,
+        "Temperaturef": "55.0",
+        "Street": " US Highway 101"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.943866,
+        "Start_Lng": -93.07742900000001,
+        "Temperaturef": "69.0",
+        "Street": "US-52 N"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 47.138976,
+        "Start_Lng": -111.86045800000001,
+        "Temperaturef": "26.0",
+        "Street": "I-15 S"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.04112,
+        "Start_Lng": -80.21284399999998,
+        "Temperaturef": "75.0",
+        "Street": " W 5th North St"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 40.04072100000001,
+        "Start_Lng": -83.156878,
+        "Temperaturef": "68.0",
+        "Street": " Avery Rd"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 41.6913,
+        "Start_Lng": -83.51308,
+        "Temperaturef": "38.7",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.922462,
+        "Start_Lng": -95.405826,
+        "Temperaturef": "47.0",
+        "Street": " Dyna Dr"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.185169,
+        "Start_Lng": -86.636507,
+        "Temperaturef": "63.0",
+        "Street": " Jackson Downs Blvd"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 48.236351,
+        "Start_Lng": -122.061535,
+        "Temperaturef": "60.8",
+        "Street": " Jim Creek Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.005148,
+        "Start_Lng": -82.30852900000002,
+        "Temperaturef": "59.0",
+        "Street": "I-4 W"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.908353999999996,
+        "Start_Lng": -81.829972,
+        "Temperaturef": "70.0",
+        "Street": " Southport Rd"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 41.537760999999996,
+        "Start_Lng": -73.900273,
+        "Temperaturef": "36.0",
+        "Street": " Route 9"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.810617,
+        "Start_Lng": -80.14191600000002,
+        "Temperaturef": "90.0",
+        "Street": "I-195 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.924255,
+        "Start_Lng": -96.786149,
+        "Temperaturef": "85.0",
+        "Street": " Lyndon B Johnson Fwy"
+    },
+    {
+        "State": "MA",
+        "Start_Lat": 42.00121,
+        "Start_Lng": -71.21271999999998,
+        "Temperaturef": "72.0",
+        "Street": "I-495 N"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.594986,
+        "Start_Lng": -74.234522,
+        "Temperaturef": "69.0",
+        "Street": "New Jersey Tpke S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.849392,
+        "Start_Lng": -117.87524199999999,
+        "Temperaturef": "57.0",
+        "Street": "CA-91 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.892284000000004,
+        "Start_Lng": -122.30752700000001,
+        "Temperaturef": "56.0",
+        "Street": "Eastshore Fwy W"
+    },
+    {
+        "State": "WV",
+        "Start_Lat": 38.36649,
+        "Start_Lng": -81.74190899999998,
+        "Temperaturef": "71.0",
+        "Street": "I-64 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.753721999999996,
+        "Start_Lng": -117.856071,
+        "Temperaturef": "59.0",
+        "Street": " Lincoln Ave"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.664852,
+        "Start_Lng": -75.379654,
+        "Temperaturef": "29.0",
+        "Street": "US-22 E"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.332867999999998,
+        "Start_Lng": -81.526212,
+        "Temperaturef": "84.0",
+        "Street": "W Irlo Bronson Memorial Hwy"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.523164,
+        "Start_Lng": -81.870302,
+        "Temperaturef": "73.0",
+        "Street": " S Tamiami Trl"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.857791,
+        "Start_Lng": -104.98760800000001,
+        "Temperaturef": "52.0",
+        "Street": "I-25 S"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.390189,
+        "Start_Lng": -75.1139,
+        "Temperaturef": "76.0",
+        "Street": "MD-90 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.99073,
+        "Start_Lng": -122.09556,
+        "Temperaturef": "87.1",
+        "Street": "CA-4 W"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 36.222806,
+        "Start_Lng": -78.273422,
+        "Temperaturef": "45.0",
+        "Street": " US 401 Hwy N"
+    },
+    {
+        "State": "GA",
+        "Start_Lat": 33.89792,
+        "Start_Lng": -84.2669,
+        "Temperaturef": "57.9",
+        "Street": "GA-407 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.534164000000004,
+        "Start_Lng": -121.516967,
+        "Temperaturef": "86.0",
+        "Street": " Riverside Blvd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.220467,
+        "Start_Lng": -77.390989,
+        "Temperaturef": "",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 33.014806,
+        "Start_Lng": -86.71283199999998,
+        "Temperaturef": "56.0",
+        "Street": "I-65 S"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.755933,
+        "Start_Lng": -82.500485,
+        "Temperaturef": "28.0",
+        "Street": " Cely Rd"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.391386,
+        "Start_Lng": -83.006341,
+        "Temperaturef": "35.0",
+        "Street": "Edsel Ford Fwy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.840965000000004,
+        "Start_Lng": -117.09733999999999,
+        "Temperaturef": "66.0",
+        "Street": "Santo Rd"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.652889,
+        "Start_Lng": -74.40440600000002,
+        "Temperaturef": "72.0",
+        "Street": " US Highway 22"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.405268,
+        "Start_Lng": -86.922507,
+        "Temperaturef": "68.0",
+        "Street": " Alfred Blvd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.076153999999995,
+        "Start_Lng": -76.284469,
+        "Temperaturef": "71.1",
+        "Street": "US-222 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.781275,
+        "Start_Lng": -80.33285699999998,
+        "Temperaturef": "85.0",
+        "Street": "Dolphin Expy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.218059000000004,
+        "Start_Lng": -119.421072,
+        "Temperaturef": "43.0",
+        "Street": " Road 68"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.842071999999995,
+        "Start_Lng": -117.121199,
+        "Temperaturef": "69.0",
+        "Street": "CA-52 W"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 42.46805,
+        "Start_Lng": -122.717789,
+        "Temperaturef": "93.0",
+        "Street": " Highway 140"
+    },
+    {
+        "State": "DE",
+        "Start_Lat": 39.694156,
+        "Start_Lng": -75.599941,
+        "Temperaturef": "58.0",
+        "Street": "W Basin Rd"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.865809999999996,
+        "Start_Lng": -87.92173000000004,
+        "Temperaturef": "37.0",
+        "Street": "Chicago-Kansas City Expressway E"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.092351,
+        "Start_Lng": -75.26095699999998,
+        "Temperaturef": "54.0",
+        "Street": " Germantown Pike"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.797421,
+        "Start_Lng": -117.24209599999999,
+        "Temperaturef": "67.0",
+        "Street": " Grand Ave"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.069339,
+        "Start_Lng": -95.886488,
+        "Temperaturef": "70.0",
+        "Street": "E 65th St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.415851,
+        "Start_Lng": -122.71591699999999,
+        "Temperaturef": "48.0",
+        "Street": "Redwood Hwy N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 36.771589,
+        "Start_Lng": -76.25745,
+        "Temperaturef": "55.0",
+        "Street": "I-64 E"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.665799,
+        "Start_Lng": -73.74615,
+        "Temperaturef": "50.0",
+        "Street": "Laurelton Pkwy W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.0538,
+        "Start_Lng": -118.23385,
+        "Temperaturef": "73.0",
+        "Street": "US-101 N"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.749601,
+        "Start_Lng": -73.740268,
+        "Temperaturef": "73.0",
+        "Street": "Cross Island Pkwy S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.089024,
+        "Start_Lng": -118.704825,
+        "Temperaturef": "64.0",
+        "Street": " Las Virgenes Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.688284,
+        "Start_Lng": -80.30898499999998,
+        "Temperaturef": "89.1",
+        "Street": " S Dixie Hwy"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.136096,
+        "Start_Lng": -86.792691,
+        "Temperaturef": "77.0",
+        "Street": " Wedgewood Ave"
+    },
+    {
+        "State": "MS",
+        "Start_Lat": 32.27664,
+        "Start_Lng": -90.178258,
+        "Temperaturef": "81.0",
+        "Street": "I-20 W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.604390000000002,
+        "Start_Lng": -81.30731999999998,
+        "Temperaturef": "79.0",
+        "Street": "Aloma Ave"
+    },
+    {
+        "State": "MS",
+        "Start_Lat": 31.346572,
+        "Start_Lng": -89.352002,
+        "Temperaturef": "80.0",
+        "Street": "I-59 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.057163,
+        "Start_Lng": -117.803867,
+        "Temperaturef": "66.0",
+        "Street": "CA-57 N"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 34.292998,
+        "Start_Lng": -113.11248700000002,
+        "Temperaturef": "83.0",
+        "Street": "Joshua Forest Scenic Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.63917100000001,
+        "Start_Lng": -122.089956,
+        "Temperaturef": "56.0",
+        "Street": "I-880 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.305183,
+        "Start_Lng": -117.466016,
+        "Temperaturef": "81.0",
+        "Street": "Pacific Crest National Scenic Trl"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.5019,
+        "Start_Lng": -76.226014,
+        "Temperaturef": "64.0",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 32.177093,
+        "Start_Lng": -110.80159599999999,
+        "Temperaturef": "60.0",
+        "Street": "Ricon Country East RV Resort"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.24844,
+        "Start_Lng": -121.83185,
+        "Temperaturef": "51.8",
+        "Street": "Norman Y Mineta Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.423,
+        "Start_Lng": -118.42818,
+        "Temperaturef": "65.0",
+        "Street": "CA-14 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.99198,
+        "Start_Lng": -118.14164199999999,
+        "Temperaturef": "55.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.89993,
+        "Start_Lng": -118.18683,
+        "Temperaturef": "60.1",
+        "Street": "Long Beach Fwy N"
+    },
+    {
+        "State": "ID",
+        "Start_Lat": 43.63387700000001,
+        "Start_Lng": -116.34291100000002,
+        "Temperaturef": "97.0",
+        "Street": "N Grenadier Way"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.777826,
+        "Start_Lng": -117.831189,
+        "Temperaturef": "56.0",
+        "Street": "CA-55 S"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.810651,
+        "Start_Lng": -122.298033,
+        "Temperaturef": "21.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.829023,
+        "Start_Lng": -95.340071,
+        "Temperaturef": "79.0",
+        "Street": " E Crosstimbers St"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 46.28386500000001,
+        "Start_Lng": -114.11693700000001,
+        "Temperaturef": "30.0",
+        "Street": " Black Ln"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.67678,
+        "Start_Lng": -80.418087,
+        "Temperaturef": "74.0",
+        "Street": "US-52 S"
+    },
+    {
+        "State": "IA",
+        "Start_Lat": 42.043009999999995,
+        "Start_Lng": -91.68081,
+        "Temperaturef": "66.0",
+        "Street": "IA-27 S"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.060446,
+        "Start_Lng": -81.212282,
+        "Temperaturef": "55.0",
+        "Street": " Coldstream Dr"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.6355,
+        "Start_Lng": -90.41046999999999,
+        "Temperaturef": "48.0",
+        "Street": "US-61 S"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 40.169717,
+        "Start_Lng": -86.54901600000002,
+        "Temperaturef": "32.0",
+        "Street": "I-65 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.063207,
+        "Start_Lng": -117.37536000000001,
+        "Temperaturef": "75.0",
+        "Street": " W Slover Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.811508,
+        "Start_Lng": -80.198596,
+        "Temperaturef": "84.0",
+        "Street": "I-195 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.85345,
+        "Start_Lng": -118.28046,
+        "Temperaturef": "57.9",
+        "Street": "I-405 N"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 41.21717,
+        "Start_Lng": -75.845062,
+        "Temperaturef": "40.0",
+        "Street": " Pine Run Rd"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.633267,
+        "Start_Lng": -74.145344,
+        "Temperaturef": "42.0",
+        "Street": "Bayonne Brg N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.511897,
+        "Start_Lng": -121.467703,
+        "Temperaturef": "91.0",
+        "Street": "Franklin Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.810617,
+        "Start_Lng": -80.14191600000002,
+        "Temperaturef": "81.0",
+        "Street": "I-195 E"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 36.286778999999996,
+        "Start_Lng": -80.8178,
+        "Temperaturef": "82.0",
+        "Street": "I-77 N"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 39.158125,
+        "Start_Lng": -94.39524899999999,
+        "Temperaturef": "70.0",
+        "Street": "N State Route 291"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.214605,
+        "Start_Lng": -93.034325,
+        "Temperaturef": "34.0",
+        "Street": "I-35W N"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 46.827314,
+        "Start_Lng": -114.08231200000002,
+        "Temperaturef": "31.0",
+        "Street": " Blue Mountain Rd"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.984684,
+        "Start_Lng": -85.668019,
+        "Temperaturef": "29.0",
+        "Street": " Leonard St NE"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.432338,
+        "Start_Lng": -91.175496,
+        "Temperaturef": "66.0",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.030389,
+        "Start_Lng": -117.68424099999999,
+        "Temperaturef": "73.0",
+        "Street": "CA-60 W"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.160032,
+        "Start_Lng": -111.874669,
+        "Temperaturef": "81.0",
+        "Street": "I-10 E"
+    },
+    {
+        "State": "RI",
+        "Start_Lat": 41.84946,
+        "Start_Lng": -71.41108,
+        "Temperaturef": "39.9",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 39.806932,
+        "Start_Lng": -75.181986,
+        "Temperaturef": "48.0",
+        "Street": "New Jersey Tpke N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.449890999999997,
+        "Start_Lng": -81.482946,
+        "Temperaturef": "70.0",
+        "Street": " W Sand Lake Rd"
+    },
+    {
+        "State": "WI",
+        "Start_Lat": 44.504690000000004,
+        "Start_Lng": -88.08211999999996,
+        "Temperaturef": "32.0",
+        "Street": "US-41 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.612790000000004,
+        "Start_Lng": -121.40148400000001,
+        "Temperaturef": "90.0",
+        "Street": " Fulton Ave"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.164801000000004,
+        "Start_Lng": -80.973499,
+        "Temperaturef": "52.0",
+        "Street": "Wilson Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.747787,
+        "Start_Lng": -80.333205,
+        "Temperaturef": "83.0",
+        "Street": " Coral Way"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.52798,
+        "Start_Lng": -121.26106999999999,
+        "Temperaturef": "52.0",
+        "Street": "Eagles Nest Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.640392,
+        "Start_Lng": -122.09083899999999,
+        "Temperaturef": "53.0",
+        "Street": "I-880 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.759088000000002,
+        "Start_Lng": -81.3134,
+        "Temperaturef": "73.0",
+        "Street": "Duck Pond Ln"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.211056,
+        "Start_Lng": -122.462347,
+        "Temperaturef": "46.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.854682999999998,
+        "Start_Lng": -80.32346,
+        "Temperaturef": "69.0",
+        "Street": "W Okeechobee Rd"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.085741999999996,
+        "Start_Lng": -75.402085,
+        "Temperaturef": "86.0",
+        "Street": "Village Dr"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.979413,
+        "Start_Lng": -85.663249,
+        "Temperaturef": "76.0",
+        "Street": " Matilda St NE"
+    },
+    {
+        "State": "LA",
+        "Start_Lat": 30.499378000000004,
+        "Start_Lng": -91.163617,
+        "Temperaturef": "63.0",
+        "Street": " Breckenridge Ave"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.896177,
+        "Start_Lng": -82.55573000000003,
+        "Temperaturef": "75.0",
+        "Street": " Farrs Rd"
+    },
+    {
+        "State": "MO",
+        "Start_Lat": 38.51427,
+        "Start_Lng": -90.37594,
+        "Temperaturef": "52.0",
+        "Street": "I-270 S"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.934246,
+        "Start_Lng": -77.210435,
+        "Temperaturef": "87.0",
+        "Street": "Capital Beltway S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.14517,
+        "Start_Lng": -118.2178,
+        "Temperaturef": "66.9",
+        "Street": "CA-134 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.915801,
+        "Start_Lng": -118.18928500000001,
+        "Temperaturef": "75.0",
+        "Street": "Glenn Anderson Fwy E"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.007335999999995,
+        "Start_Lng": -73.64711700000002,
+        "Temperaturef": "54.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "NH",
+        "Start_Lat": 43.595872,
+        "Start_Lng": -71.623323,
+        "Temperaturef": "15.8",
+        "Street": "Senator Styles Bridges Hwy N"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.66428,
+        "Start_Lng": -77.01854,
+        "Temperaturef": "40.8",
+        "Street": " Indian Head Hwy"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 36.750614,
+        "Start_Lng": -76.52659,
+        "Temperaturef": "48.0",
+        "Street": " Portsmouth Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.649758,
+        "Start_Lng": -117.370848,
+        "Temperaturef": "99.0",
+        "Street": " Marian Ave"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.12093400000001,
+        "Start_Lng": -93.04983,
+        "Temperaturef": "75.0",
+        "Street": "I-35E S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.15297,
+        "Start_Lng": -118.27965,
+        "Temperaturef": "66.9",
+        "Street": "CA-134 W"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.261181,
+        "Start_Lng": -75.32779599999998,
+        "Temperaturef": "84.0",
+        "Street": " Allentown Rd"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.892661,
+        "Start_Lng": -79.047911,
+        "Temperaturef": "28.0",
+        "Street": " Highway 701 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.96375,
+        "Start_Lng": -80.147421,
+        "Temperaturef": "72.0",
+        "Street": " NE 203rd St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.811420000000002,
+        "Start_Lng": -82.088588,
+        "Temperaturef": "67.0",
+        "Street": "I-75 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.416851,
+        "Start_Lng": -80.171452,
+        "Temperaturef": "84.0",
+        "Street": "Florida's Tpke N"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.722962,
+        "Start_Lng": -123.199707,
+        "Temperaturef": "60.0",
+        "Street": " NW Highway 47"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.250509,
+        "Start_Lng": -121.185341,
+        "Temperaturef": "76.0",
+        "Street": " S Highway 97"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.70634,
+        "Start_Lng": -95.51092,
+        "Temperaturef": "68.0",
+        "Street": "US-59 S"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.284794,
+        "Start_Lng": -72.841921,
+        "Temperaturef": "53.0",
+        "Street": "Governor John Davis Lodge Tpke N"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.75255,
+        "Start_Lng": -72.65500300000002,
+        "Temperaturef": "63.0",
+        "Street": "CT-15 S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.84902,
+        "Start_Lng": -95.50568,
+        "Temperaturef": "73.0",
+        "Street": "Northwest Fwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.031513000000004,
+        "Start_Lng": -118.21983200000001,
+        "Temperaturef": "46.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 43.17731,
+        "Start_Lng": -85.272468,
+        "Temperaturef": "58.1",
+        "Street": " W Washington St"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.824007,
+        "Start_Lng": -74.176261,
+        "Temperaturef": "52.0",
+        "Street": "Garden State Pkwy S"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 42.99293400000001,
+        "Start_Lng": -123.325383,
+        "Temperaturef": "33.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.386122999999998,
+        "Start_Lng": -81.404641,
+        "Temperaturef": "87.0",
+        "Street": " S Orange Blossom Trl"
+    },
+    {
+        "State": "CO",
+        "Start_Lat": 39.85183,
+        "Start_Lng": -104.98631,
+        "Temperaturef": "24.8",
+        "Street": "US-87 S"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.52185,
+        "Start_Lng": -81.944322,
+        "Temperaturef": "59.0",
+        "Street": " Serpentine Dr"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 41.1419,
+        "Start_Lng": -81.47694,
+        "Temperaturef": "23.0",
+        "Street": "OH-8 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.66361,
+        "Start_Lng": -122.10583999999999,
+        "Temperaturef": "71.1",
+        "Street": "I-880 N"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.202807,
+        "Start_Lng": -77.208124,
+        "Temperaturef": "60.0",
+        "Street": " S Orange St"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 36.24554000000001,
+        "Start_Lng": -86.74592,
+        "Temperaturef": "46.9",
+        "Street": "I-65 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.770567,
+        "Start_Lng": -117.06509399999999,
+        "Temperaturef": "73.0",
+        "Street": " Montezuma Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.041819,
+        "Start_Lng": -118.317702,
+        "Temperaturef": "77.0",
+        "Street": " Arlington Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.69425,
+        "Start_Lng": -80.28501800000002,
+        "Temperaturef": "90.0",
+        "Street": " SW 57th Ave"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.891391999999996,
+        "Start_Lng": -74.07405200000002,
+        "Temperaturef": "59.0",
+        "Street": "Bergen Passaic Expy W"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.61389000000001,
+        "Start_Lng": -122.32982,
+        "Temperaturef": "51.1",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.763166,
+        "Start_Lng": -77.156819,
+        "Temperaturef": "61.0",
+        "Street": " Beulah St"
+    },
+    {
+        "State": "RI",
+        "Start_Lat": 41.81917,
+        "Start_Lng": -71.41848,
+        "Temperaturef": "73.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.80275,
+        "Start_Lng": -95.448522,
+        "Temperaturef": "84.0",
+        "Street": "I-610 E"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.373905,
+        "Start_Lng": -81.20285799999998,
+        "Temperaturef": "53.0",
+        "Street": "US-321 S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.75327,
+        "Start_Lng": -74.21083,
+        "Temperaturef": "66.0",
+        "Street": "Garden State Pkwy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.711292,
+        "Start_Lng": -117.36029099999999,
+        "Temperaturef": "79.0",
+        "Street": "Corona Fwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.576428999999997,
+        "Start_Lng": -81.45146899999997,
+        "Temperaturef": "73.0",
+        "Street": " N Pine Hills Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.687137,
+        "Start_Lng": -117.87228999999999,
+        "Temperaturef": "67.0",
+        "Street": "CA-55 N"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 47.480391999999995,
+        "Start_Lng": -92.789491,
+        "Temperaturef": "41.0",
+        "Street": "US-169 N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.001043,
+        "Start_Lng": -78.34995699999997,
+        "Temperaturef": "48.0",
+        "Street": "I-64 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.357169,
+        "Start_Lng": -119.68651899999999,
+        "Temperaturef": "102.0",
+        "Street": " Fargo Ave"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.243777,
+        "Start_Lng": -75.540224,
+        "Temperaturef": "91.0",
+        "Street": " Neiffer Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.903214000000002,
+        "Start_Lng": -82.822725,
+        "Temperaturef": "72.0",
+        "Street": " Indian Rocks Rd S"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 41.218262,
+        "Start_Lng": -111.94828500000001,
+        "Temperaturef": "74.0",
+        "Street": " Harrison Blvd"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.016921999999994,
+        "Start_Lng": -85.320229,
+        "Temperaturef": "78.0",
+        "Street": " W 33rd St"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.890557,
+        "Start_Lng": -78.850364,
+        "Temperaturef": "80.1",
+        "Street": "Veterans Hwy W"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.285624,
+        "Start_Lng": -85.61308000000002,
+        "Temperaturef": "63.0",
+        "Street": " Highway 2321"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.790842,
+        "Start_Lng": -78.848507,
+        "Temperaturef": "71.0",
+        "Street": " High House Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.4586,
+        "Start_Lng": -121.92414,
+        "Temperaturef": "46.4",
+        "Street": "Nimitz Fwy S"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.699553,
+        "Start_Lng": -82.275456,
+        "Temperaturef": "57.0",
+        "Street": " Harrison Bridge Rd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 43.538121000000004,
+        "Start_Lng": -119.081678,
+        "Temperaturef": "12.0",
+        "Street": " Highway 20 W"
+    },
+    {
+        "State": "TN",
+        "Start_Lat": 35.859169,
+        "Start_Lng": -83.959538,
+        "Temperaturef": "51.8",
+        "Street": " Airport Hwy"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.462021,
+        "Start_Lng": -83.75533100000001,
+        "Temperaturef": "44.0",
+        "Street": "US-23 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.460127000000004,
+        "Start_Lng": -81.669433,
+        "Temperaturef": "41.0",
+        "Street": "Biscayne Blvd"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.55917,
+        "Start_Lng": -76.25195,
+        "Temperaturef": "78.8",
+        "Street": " Priestford Rd"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 38.8475,
+        "Start_Lng": -77.427916,
+        "Temperaturef": "88.0",
+        "Street": "I-66 W"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.555834000000004,
+        "Start_Lng": -123.06099499999999,
+        "Temperaturef": "84.0",
+        "Street": "Corvallis-Lebanon Hwy"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.676034,
+        "Start_Lng": -97.175329,
+        "Temperaturef": "78.0",
+        "Street": "I-20 W"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 35.036421000000004,
+        "Start_Lng": -81.83639699999998,
+        "Temperaturef": "64.0",
+        "Street": "I-85 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.822225,
+        "Start_Lng": -117.92250200000001,
+        "Temperaturef": "68.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.27425,
+        "Start_Lng": -117.201366,
+        "Temperaturef": "90.0",
+        "Street": "FS Road 2N24"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.544578,
+        "Start_Lng": -92.444361,
+        "Temperaturef": "54.0",
+        "Street": " US Highway 61"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.883768,
+        "Start_Lng": -80.193601,
+        "Temperaturef": "88.0",
+        "Street": " W Dixie Hwy"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 37.936611,
+        "Start_Lng": -77.47076899999998,
+        "Temperaturef": "72.0",
+        "Street": "I-95 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.165282,
+        "Start_Lng": -118.489522,
+        "Temperaturef": "75.0",
+        "Street": "US-101 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 29.039854,
+        "Start_Lng": -81.640173,
+        "Temperaturef": "81.0",
+        "Street": " State Road 19"
+    },
+    {
+        "State": "OH",
+        "Start_Lat": 40.0584,
+        "Start_Lng": -83.53499000000002,
+        "Temperaturef": "32.0",
+        "Street": " State Route 29"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 41.591432,
+        "Start_Lng": -73.764961,
+        "Temperaturef": "34.0",
+        "Street": " Taconic State Pkwy"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 38.93091,
+        "Start_Lng": -86.63190999999998,
+        "Temperaturef": "78.1",
+        "Street": " State Road 58 W"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 45.192509,
+        "Start_Lng": -93.073167,
+        "Temperaturef": "34.0",
+        "Street": "I-35W N"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.683242,
+        "Start_Lng": -75.289059,
+        "Temperaturef": "29.0",
+        "Street": "US-22 W"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 45.316746,
+        "Start_Lng": -111.18660600000001,
+        "Temperaturef": "37.0",
+        "Street": " Gallatin Rd"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.742186,
+        "Start_Lng": -111.66163799999998,
+        "Temperaturef": "39.0",
+        "Street": "I-80 E"
+    },
+    {
+        "State": "IL",
+        "Start_Lat": 41.756694,
+        "Start_Lng": -87.880158,
+        "Temperaturef": "87.0",
+        "Street": "I-294 S"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.462973999999996,
+        "Start_Lng": -74.285481,
+        "Temperaturef": "64.0",
+        "Street": "Garden State Pkwy S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.407349,
+        "Start_Lng": -81.405626,
+        "Temperaturef": "75.0",
+        "Street": " Central Florida Pkwy"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.751607,
+        "Start_Lng": -96.758473,
+        "Temperaturef": "91.0",
+        "Street": "Leland Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.166652,
+        "Start_Lng": -118.383573,
+        "Temperaturef": "59.0",
+        "Street": "CA-170 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 39.743633,
+        "Start_Lng": -122.17811299999998,
+        "Temperaturef": "70.0",
+        "Street": " Papst Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.196571999999996,
+        "Start_Lng": -82.546538,
+        "Temperaturef": "62.0",
+        "Street": "Suncoast Pkwy N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.018853,
+        "Start_Lng": -118.42326499999999,
+        "Temperaturef": "74.0",
+        "Street": " Palms Blvd"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.468662,
+        "Start_Lng": -117.336026,
+        "Temperaturef": "34.0",
+        "Street": "I-84 E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.410349,
+        "Start_Lng": -122.074596,
+        "Temperaturef": "59.0",
+        "Street": "Bayshore Fwy S"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 39.593117,
+        "Start_Lng": -76.066348,
+        "Temperaturef": "51.0",
+        "Street": "Perrylawn Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 30.515871999999998,
+        "Start_Lng": -87.190738,
+        "Temperaturef": "70.0",
+        "Street": " Gatewood Dr"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 26.533790000000003,
+        "Start_Lng": -80.07359,
+        "Temperaturef": "75.9",
+        "Street": "I-95 S"
+    },
+    {
+        "State": "MD",
+        "Start_Lat": 38.776706,
+        "Start_Lng": -76.99646800000002,
+        "Temperaturef": "59.0",
+        "Street": " Indian Head Hwy"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.203133,
+        "Start_Lng": -80.760322,
+        "Temperaturef": "49.0",
+        "Street": " N Sharon Amity Rd"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 32.450396999999995,
+        "Start_Lng": -80.771111,
+        "Temperaturef": "89.0",
+        "Street": " White Pine Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.014649,
+        "Start_Lng": -118.16891000000001,
+        "Temperaturef": "55.0",
+        "Street": "I-5 S"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.363386,
+        "Start_Lng": -81.426517,
+        "Temperaturef": "83.0",
+        "Street": " W Town Center Blvd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.144686,
+        "Start_Lng": -118.07326599999999,
+        "Temperaturef": "",
+        "Street": " Mohawk St"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.104046000000004,
+        "Start_Lng": -81.18476899999997,
+        "Temperaturef": "64.0",
+        "Street": " Broad River Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.10650900000001,
+        "Start_Lng": -80.70023,
+        "Temperaturef": "73.0",
+        "Street": " S John Rodes Blvd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.959038,
+        "Start_Lng": -82.575887,
+        "Temperaturef": "79.0",
+        "Street": " W Charlyn Ln"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.899849,
+        "Start_Lng": -80.176793,
+        "Temperaturef": "82.0",
+        "Street": " NE 135th St"
+    },
+    {
+        "State": "IN",
+        "Start_Lat": 39.515223,
+        "Start_Lng": -87.149353,
+        "Temperaturef": "82.0",
+        "Street": " W US Highway 40"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.58891,
+        "Start_Lng": -117.03647,
+        "Temperaturef": "72.0",
+        "Street": "I-805 S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.765234,
+        "Start_Lng": -122.40489299999999,
+        "Temperaturef": "70.0",
+        "Street": "Central Fwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 32.69123,
+        "Start_Lng": -117.11858000000001,
+        "Temperaturef": "69.1",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 41.16167700000001,
+        "Start_Lng": -112.03573,
+        "Temperaturef": "94.0",
+        "Street": " W 5600 S"
+    },
+    {
+        "State": "AZ",
+        "Start_Lat": 33.681709999999995,
+        "Start_Lng": -112.405575,
+        "Temperaturef": "67.0",
+        "Street": " W Grand Ave"
+    },
+    {
+        "State": "UT",
+        "Start_Lat": 40.893879999999996,
+        "Start_Lng": -111.89611000000001,
+        "Temperaturef": "19.0",
+        "Street": "W 400 N"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 40.913014000000004,
+        "Start_Lng": -124.072259,
+        "Temperaturef": "51.0",
+        "Street": " N Bank Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.3172,
+        "Start_Lng": -121.93203000000001,
+        "Temperaturef": "63.0",
+        "Street": " S Bascom Ave"
+    },
+    {
+        "State": "AL",
+        "Start_Lat": 30.690631,
+        "Start_Lng": -88.033792,
+        "Temperaturef": "62.0",
+        "Street": "George C Wallace Tunl W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.786198,
+        "Start_Lng": -119.29576999999999,
+        "Temperaturef": "77.0",
+        "Street": " Elwood Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.319623999999997,
+        "Start_Lng": -82.68791,
+        "Temperaturef": "72.0",
+        "Street": " Nome Ave"
+    },
+    {
+        "State": "NC",
+        "Start_Lat": 35.796764,
+        "Start_Lng": -78.579215,
+        "Temperaturef": "73.9",
+        "Street": " New Bern Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.595101,
+        "Start_Lng": -117.193651,
+        "Temperaturef": "48.0",
+        "Street": " Mandelieu Dr"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 44.99831500000001,
+        "Start_Lng": -123.00004299999999,
+        "Temperaturef": "53.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.382399,
+        "Start_Lng": -81.39126999999998,
+        "Temperaturef": "82.0",
+        "Street": "Ronald Reagan Tpke"
+    },
+    {
+        "State": "NJ",
+        "Start_Lat": 40.819316,
+        "Start_Lng": -74.117774,
+        "Temperaturef": "75.0",
+        "Street": "NJ-3 W"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.479387,
+        "Start_Lng": -78.01432199999998,
+        "Temperaturef": "75.0",
+        "Street": " William Penn Hwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.690647,
+        "Start_Lng": -122.138646,
+        "Temperaturef": "54.0",
+        "Street": "Washington Ave"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 44.928731,
+        "Start_Lng": -93.143958,
+        "Temperaturef": "42.0",
+        "Street": "I-35E S"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.104847,
+        "Start_Lng": -117.093112,
+        "Temperaturef": "66.0",
+        "Street": "Escondido Fwy S"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 40.751476000000004,
+        "Start_Lng": -73.32526999999997,
+        "Temperaturef": "25.0",
+        "Street": "Deer Park Ave"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 41.716248,
+        "Start_Lng": -122.640111,
+        "Temperaturef": "87.0",
+        "Street": " W Oberlin Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.768570999999998,
+        "Start_Lng": -80.369064,
+        "Temperaturef": "83.0",
+        "Street": "NW 107th Ave"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 32.91722,
+        "Start_Lng": -96.76663,
+        "Temperaturef": "50.0",
+        "Street": "US-75 N"
+    },
+    {
+        "State": "VA",
+        "Start_Lat": 39.1452,
+        "Start_Lng": -77.731849,
+        "Temperaturef": "39.0",
+        "Street": "Harry Byrd Hwy E"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.7495,
+        "Start_Lng": -73.77192,
+        "Temperaturef": "41.0",
+        "Street": "Adirondack Northway N"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.76580300000001,
+        "Start_Lng": -72.656203,
+        "Temperaturef": "44.0",
+        "Street": "I-84 E"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.79,
+        "Start_Lng": -95.3719,
+        "Temperaturef": "69.8",
+        "Street": "N Main St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.83757,
+        "Start_Lng": -118.36636399999999,
+        "Temperaturef": "55.4",
+        "Street": " Torrance Blvd"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 30.34068,
+        "Start_Lng": -97.75388000000001,
+        "Temperaturef": "93.0",
+        "Street": "Mopac Expy S"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.702954,
+        "Start_Lng": -95.422987,
+        "Temperaturef": "84.0",
+        "Street": "Bellefontaine St"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.423259,
+        "Start_Lng": -81.42298000000002,
+        "Temperaturef": "85.0",
+        "Street": "S John Young Pkwy"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 34.067699,
+        "Start_Lng": -117.593231,
+        "Temperaturef": "51.0",
+        "Street": "N Archibald Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 25.94697,
+        "Start_Lng": -80.27744,
+        "Temperaturef": "79.0",
+        "Street": " NW 191st St"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 36.182136,
+        "Start_Lng": -119.33030600000001,
+        "Temperaturef": "50.0",
+        "Street": " E Paige Ave"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.895840000000003,
+        "Start_Lng": -82.34751999999997,
+        "Temperaturef": "64.4",
+        "Street": "I-75 N"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 27.279269,
+        "Start_Lng": -82.530677,
+        "Temperaturef": "80.0",
+        "Street": " S Tamiami Trl"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 34.041577000000004,
+        "Start_Lng": -81.088699,
+        "Temperaturef": "70.0",
+        "Street": "I-20 W"
+    },
+    {
+        "State": "NY",
+        "Start_Lat": 42.93308,
+        "Start_Lng": -78.802687,
+        "Temperaturef": "67.0",
+        "Street": "Kensington Expy E"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.996091,
+        "Start_Lng": -122.28786699999999,
+        "Temperaturef": "52.0",
+        "Street": "I-80 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.729256,
+        "Start_Lng": -122.186272,
+        "Temperaturef": "67.0",
+        "Street": "I-880 N"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.7051,
+        "Start_Lng": -95.53806,
+        "Temperaturef": "80.6",
+        "Street": "S Gessner Rd"
+    },
+    {
+        "State": "FL",
+        "Start_Lat": 28.194176000000002,
+        "Start_Lng": -82.384229,
+        "Temperaturef": "46.0",
+        "Street": "I-75 S"
+    },
+    {
+        "State": "OK",
+        "Start_Lat": 36.162324,
+        "Start_Lng": -95.88676,
+        "Temperaturef": "86.0",
+        "Street": "N Memorial Dr"
+    },
+    {
+        "State": "PA",
+        "Start_Lat": 40.253913,
+        "Start_Lng": -79.571186,
+        "Temperaturef": "60.8",
+        "Street": "Avenue A"
+    },
+    {
+        "State": "MI",
+        "Start_Lat": 42.335809999999995,
+        "Start_Lng": -83.12875,
+        "Temperaturef": "82.9",
+        "Street": "I-94 W"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.477559,
+        "Start_Lng": -121.407068,
+        "Temperaturef": "90.0",
+        "Street": " Countryfield Dr"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 38.551595,
+        "Start_Lng": -121.432325,
+        "Temperaturef": "48.0",
+        "Street": "CA-16 E"
+    },
+    {
+        "State": "SC",
+        "Start_Lat": 33.871457,
+        "Start_Lng": -79.117762,
+        "Temperaturef": "45.0",
+        "Street": " Highway 548"
+    },
+    {
+        "State": "TX",
+        "Start_Lat": 29.62786,
+        "Start_Lng": -95.59373000000001,
+        "Temperaturef": "61.0",
+        "Street": "Frontage Rd"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 37.478932,
+        "Start_Lng": -120.065694,
+        "Temperaturef": "71.0",
+        "Street": " State Highway 140"
+    },
+    {
+        "State": "MT",
+        "Start_Lat": 45.881611,
+        "Start_Lng": -108.46893200000001,
+        "Temperaturef": "53.0",
+        "Street": " US Highway 87 N"
+    },
+    {
+        "State": "OR",
+        "Start_Lat": 45.595175,
+        "Start_Lng": -122.684002,
+        "Temperaturef": "77.0",
+        "Street": "I-5 N"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.110033,
+        "Start_Lng": -73.40270600000002,
+        "Temperaturef": "75.0",
+        "Street": "Governor John Davis Lodge Tpke"
+    },
+    {
+        "State": "CA",
+        "Start_Lat": 33.974727,
+        "Start_Lng": -118.237027,
+        "Temperaturef": "73.0",
+        "Street": " E Florence Ave"
+    },
+    {
+        "State": "CT",
+        "Start_Lat": 41.887446000000004,
+        "Start_Lng": -72.654894,
+        "Temperaturef": "63.0",
+        "Street": "I-91 S"
+    },
+    {
+        "State": "DC",
+        "Start_Lat": 38.884834999999995,
+        "Start_Lng": -77.020873,
+        "Temperaturef": "61.0",
+        "Street": " D St SW"
+    },
+    {
+        "State": "MN",
+        "Start_Lat": 47.501025,
+        "Start_Lng": -94.90901,
+        "Temperaturef": "40.0",
+        "Street": " US Highway 71"
+    },
+    {
+        "State": "WA",
+        "Start_Lat": 47.2304,
+        "Start_Lng": -122.44961,
+        "Temperaturef": "76.8",
+        "Street": "I-5 S"
+    }
+]

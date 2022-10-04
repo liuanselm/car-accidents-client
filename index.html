@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>socket test</title>
+    <script src='https://cdn.plot.ly/plotly-2.14.0.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div id="mapchartWrapper">
+            <div id="myDiv"></div>
+            <div id="tdiv"></div>
+        </div>
+        <div id="queryWrapper">
+            <div id="TimeSelection">
+                <div class="time">
+                    Start Time:
+                    <input type="datetime-local" id="StartTime" value="2016-02-01T00:00" min="2016-02-01T00:00" max="2021-12-31T23:59">
+                </div>
+                <div class="time">
+                    End Time:
+                    <input type="datetime-local" value="2021-12-31T23:59" id="EndTime" min="2016-02-01T00:00" max="2021-12-31T23:59">
+                </div>
+                <div class="time">
+                    n:
+                    <input type="range" min="100" max="10000" value="1000" id="sample">
+                </div>
+            </div>
+            <div id="sampleValue"></div>
+            <div class="temp">
+                Low Temp (f): <input type="number" id="lowTemp">
+            </div>
+            <div class="temp">
+                High Temp (f): <input type="number" id="highTemp">
+            </div>
+            <button id="sumbitQuery" onclick="sendMessage()">Query</button>
+        </div>
+    </div>
+</body>
+<script>
+    //loads pre generated data upon load
+    async function loadJSON() {
+        const response = await fetch("data.json");
+        const json = await response.json();
+        plot(json);
+    }
+    loadJSON()
+</script>
+<script src="index.js"></script>
+</html>
