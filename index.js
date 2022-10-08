@@ -17,6 +17,10 @@ const sendMessage = () => {
     socket.send("SELECT State, Start_Lat, Start_Lng, Start_Time, Street FROM accidents WHERE " + querygen() + " ORDER BY RAND() LIMIT "+ document.getElementById("sample").value)
 }
 
+const sendChartMessage = () => {
+    socket.send("SELECT hour(Start_Time) 'Start_Time', COUNT(*) 'Count' FROM (SELECT Start_Time FROM accidents order by rand() Limit 10000) AS a Group by hour(Start_Time)")
+}
+
 //create custom query
 function querygen(){
     //time
@@ -134,7 +138,27 @@ function fillChart(chart){
     Plotly.newPlot('tdiv', data);
 }
 
+function compareChart(obj){
+    var month = []
+    var count = []
+
+    for (var i = 0; i < obj.length; i++){
+        count.push(obj[i].Count)
+        month.push(obj[i].Start_Time)
+    }
+    var data = [
+        {
+            x: month,
+            y: count,
+            type: 'bar'
+        }
+    ]
+    Plotly.newPlot('compareChart', data)
+}
+
 function sort(obj){
     const sortable = Object.fromEntries(Object.entries(obj).sort(([,a],[,b]) => b-a))
     return sortable
 }
+
+//SELECT month(Start_Time), COUNT(*) FROM (SELECT Start_Time FROM accidents order by rand() limit 1000) AS a Group by month(Start_Time)

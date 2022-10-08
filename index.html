@@ -15,6 +15,7 @@
             <div id="myDiv"></div>
             <div id="tdiv"></div>
         </div>
+        <div id="compareChart"></div>
         <div id="queryWrapper">
             <div id="TimeSelection">
                 <div class="time">
@@ -47,8 +48,16 @@
         const response = await fetch("data.json");
         const json = await response.json();
         plot(json);
+        
+    }
+    async function loadChartJSON() {
+        const response = await fetch("data-chart.json");
+        const json = await response.json();
+        compareChart(json);
+        
     }
     loadJSON()
+    loadChartJSON()
 </script>
 <script src="index.js"></script>
 </html>
