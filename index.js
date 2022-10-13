@@ -13,22 +13,39 @@ socket.addEventListener('message', function(event){
 })
 
 //send query to server
-const sendMessage = () => {
-    socket.send("SELECT State, Start_Lat, Start_Lng, Start_Time, Street FROM accidents WHERE " + querygen() + " ORDER BY RAND() LIMIT "+ document.getElementById("sample").value)
+function sendMessage(){
+    socket.send(querygen())
 }
 
-const sendChartMessage = () => {
+function sendChartMessage(){
     socket.send("SELECT hour(Start_Time) 'Start_Time', COUNT(*) 'Count' FROM (SELECT Start_Time FROM accidents order by rand() Limit 10000) AS a Group by hour(Start_Time)")
 }
 
 //create custom query
 function querygen(){
     //time
+    var select = "SELECT State, Start_Lat, Start_Lng"
     var startTime = '';
     var endTime = '';
     var where = ''
     var lowTemp = document.getElementById("lowTemp").value
     var highTemp = document.getElementById("highTemp").value
+
+    if (document.getElementById("displayTime").checked){
+        select += ", Start_Time"
+    }
+
+    if (document.getElementById("displayStreet").checked){
+        select += ", Street"
+    }
+
+    if (document.getElementById("displaySeverity").checked){
+        select += ", Severity"
+    }
+
+    if (document.getElementById("displayWeather").checked){
+        select += ", Weather_Condition"
+    }
 
     if (document.getElementById("StartTime").value != ''){
         startTime = (new Date(document.getElementById("StartTime").value)).toISOString().slice(0, 19).replace('T', ' ')
@@ -48,13 +65,12 @@ function querygen(){
     else if (startTime != '' && endTime != ''){
         where = "Start_Time BETWEEN '"+startTime+"' AND '" +endTime+"'"
     }
-
-    //where += " AND MONTH(Start_Time)=1"
         
     if (lowTemp != '' && highTemp != ''){
         where += " AND `Temperaturef` BETWEEN " + lowTemp + " AND " + highTemp + " AND `Temperaturef` <> ''"
     }
-    return where
+    var query = select + " FROM accidents WHERE " + where + " ORDER BY RAND() LIMIT " + (document.getElementById("sample").value)*500
+    return query
 }
 
 //plot function to plot on map
@@ -62,14 +78,20 @@ function plot(obj){
     var chart = {}
     const lat = []
     const lng = []
-    const time = []
-    const street = []
+    const display = []
+    var str = ""
 
     for (i=0;i<obj.length;i++){
+        str = ""
         lat.push(obj[i].Start_Lat)
         lng.push(obj[i].Start_Lng)
-        time.push(obj[i].Start_Time)
-        street.push(obj[i].Street)
+        str += obj[i].Weather_Condition + "|"
+        str += obj[i].Street + "|"
+        str += obj[i].Severity + "|"
+        str += obj[i].Start_Time
+
+        display.push(str)
+        //adds up the counts on accidents for each state
         if (chart[obj[i].State] == null){
             chart[obj[i].State] = 1
         } 
@@ -80,21 +102,13 @@ function plot(obj){
     //call chart function to fill chart
     fillChart(sort(chart))
     //map attributes
+
     var data = [{
         type: 'scattergeo',
         locationmode: 'USA-states',
         lat: lat,
         lon: lng,
-        text: time,
-        /*
-        marker: {
-            colorscale: 'Greens',
-            color: temp,
-            colorbar: {
-                title: 'Temp',
-            },
-        }
-        */
+        text: display
     }];
     var layout = {
         autosize: true,
@@ -111,9 +125,9 @@ function plot(obj){
             countrywidth: 1,
             subunitcolor: 'rgb(255,255,255)',
             countrycolor: 'rgb(255,255,255)'
-        },
-    };
-    Plotly.newPlot("myDiv", data, layout, {showLink: false});
+        }
+    }
+    Plotly.newPlot("myDiv", data, layout, {responsive: true});
 }
 
 function fillChart(chart){
@@ -135,7 +149,7 @@ function fillChart(chart){
             font: {family: "Arial", size: 11, color: ["black"]}
         }
     }]
-    Plotly.newPlot('tdiv', data);
+    Plotly.newPlot('tdiv', data, {}, {responsive: true});
 }
 
 function compareChart(obj){
@@ -153,12 +167,10 @@ function compareChart(obj){
             type: 'bar'
         }
     ]
-    Plotly.newPlot('compareChart', data)
+    Plotly.newPlot('compareChart', data, {}, {responsive: true})
 }
 
 function sort(obj){
     const sortable = Object.fromEntries(Object.entries(obj).sort(([,a],[,b]) => b-a))
     return sortable
 }
-
-//SELECT month(Start_Time), COUNT(*) FROM (SELECT Start_Time FROM accidents order by rand() limit 1000) AS a Group by month(Start_Time)
