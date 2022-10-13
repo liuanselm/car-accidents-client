@@ -1,0 +1,11 @@
+#mapqueryWrapper, #compareWrapper{
+    border:1px solid grey;
+    padding:1vh;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:1vh;
+    margin:1vh;
+}
+

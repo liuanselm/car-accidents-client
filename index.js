@@ -167,10 +167,23 @@ function compareChart(obj){
             type: 'bar'
         }
     ]
-    Plotly.newPlot('compareChart', data, {}, {responsive: true})
+    var layout = {
+        xaxis: {
+            title: 'Hour'
+        },
+        yaxis: {
+            title: 'Count'
+        }
+    }
+    Plotly.newPlot('compareChart', data, layout, {responsive: true})
 }
 
 function sort(obj){
     const sortable = Object.fromEntries(Object.entries(obj).sort(([,a],[,b]) => b-a))
     return sortable
 }
+
+document.getElementById('sample').addEventListener('change', function changeSample(){
+    console.log('change sample')
+    document.getElementById('sampleText').innerHTML = 'Sample Size: ' + document.getElementById('sample').value*500
+})
