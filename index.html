@@ -15,48 +15,48 @@
             <div id="myDiv"></div>
             <div id="tdiv"></div>
         </div>
+        <div id="mapqueryWrapper">
+            <div class="queryTitle">Map Query Generator</div>
+            <input type="datetime-local" id="StartTime" value="2016-02-01T00:00" min="2016-02-01T00:00" max="2021-12-31T23:59">
+            <input type="datetime-local" value="2021-12-31T23:59" id="EndTime" min="2016-02-01T00:00" max="2021-12-31T23:59">
+            <label for="sample" id="sampleText">Sample Size: 5000</label>
+            <input type="range" min="1" max="20" value="10" id="sample">
+            <input type="number" id="lowTemp" placeholder="Temperature Low (f)">
+            <input type="number" id="highTemp" placeholder="Temperature High (f)">
+            <div id="displayWrapper">
+                <form>
+                    <input type="checkbox" id="displayTime">
+                    <label for="displayTime">Time</label>
+                    <input type="checkbox" id="displayStreet">
+                    <label for="displayStreet">Street</label>
+                    <input type="checkbox" id="displaySeverity">
+                    <label for="displayStreet">Severity</label>
+                    <input type="checkbox" id="displayWeather">
+                    <label for="displayStreet">Weather</label>
+                </form>
+            </div>
+            <button id="sumbitQuery" onclick="sendMessage()">Query</button>
+        </div>
         <div id="compareChart"></div>
-        <div id="queryWrapper">
-            <div id="mapqueryWrapper">
-                <div>Map Query Generator</div>
-                <input type="datetime-local" id="StartTime" value="2016-02-01T00:00" min="2016-02-01T00:00" max="2021-12-31T23:59">
-                <input type="datetime-local" value="2021-12-31T23:59" id="EndTime" min="2016-02-01T00:00" max="2021-12-31T23:59">
-                <label for="sample" id="sampleText">Sample Size: 5000</label>
-                <input type="range" min="1" max="20" value="10" id="sample">
-                <input type="number" id="lowTemp" placeholder="Temperature Low (f)">
-                <input type="number" id="highTemp" placeholder="Temperature High (f)">
-                <div id="displayWrapper">
-                    <form>
-                        <input type="checkbox" id="displayTime">
-                        <label for="displayTime">Time</label>
-                        <input type="checkbox" id="displayStreet">
-                        <label for="displayStreet">Street</label>
-                        <input type="checkbox" id="displaySeverity">
-                        <label for="displayStreet">Severity</label>
-                        <input type="checkbox" id="displayWeather">
-                        <label for="displayStreet">Weather</label>
-                    </form>
-                </div>
-                <button id="sumbitQuery" onclick="sendMessage()">Query</button>
-            </div>
-            <div id="compareWrapper">
-                <div>Chart Query Generator</div>
-                <form>
-                    <input type="radio" id="compTime" name="compX">
-                    <label for="compTime">Time</label>
-                    <input type="radio" id="compMonth" name="compX">
-                    <label for="compSev">Month</label>
-                    <input type="radio" id="compTemp" name="compX">
-                    <label for="compTemp">Temp</label>
-                    <input type="radio" id="compSev" name="compX">
-                    <label for="compSev">Severity</label>
-                </form>
-                <form>
-                    <input type="radio" id="compCount" name="compY">
-                    <label for="compTime">Count</label>
-                </form>
-                <button>Query</button>
-            </div>
+        <div id="compareWrapper">
+            <div class="queryTitle">Chart Query Generator</div>
+            <div>X-Axis</div>
+            <form>
+                <input type="radio" id="compTime" name="compX">
+                <label for="compTime">Time</label>
+                <input type="radio" id="compMonth" name="compX">
+                <label for="compSev">Month</label>
+                <input type="radio" id="compTemp" name="compX">
+                <label for="compTemp">Temp</label>
+                <input type="radio" id="compSev" name="compX">
+                <label for="compSev">Severity</label>
+            </form>
+            <div>Y-Axis</div>
+            <form>
+                <input type="radio" id="compCount" name="compY">
+                <label for="compTime">Count</label>
+            </form>
+            <button>Query</button>
         </div>
     </div>
 </body>

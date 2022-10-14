@@ -74,6 +74,7 @@ function querygen(){
 }
 
 //plot function to plot on map
+const population = {CA:39237836,TX:29527941,FL:21781128,NY:19835913,PA:12964056,IL:12671469,OH:11780017,GA:10799566,NC:10551162,MI:10050811,NJ:9267130,VA:8642274,WA:7738692,AZ:7276316,MA:6984723,TN:6975218,IN:6805985,MO:6168187,MD:6165129,WI:5895908,CO:5812069,MN:5707390,SC:5190705,AL:5039877,LA:4624047,KY:4509394,OR:4246155,OK:3986639,CT:3605597,UT:3322389,IA:3193079,NV:3143991,AR:3025891,MS:2949965,KS:2934582,NM:2115877,NE:1963692,ID:1900923,WV:1782959,HI:1441553,NH:1388992,ME:1372247,RI:1095610,MT:1104271,DE:1003384,SD:895376,ND:774948,AK:732673,VT:645570,WY:578803,DC:670050}
 function plot(obj){
     var chart = {}
     const lat = []
@@ -93,14 +94,22 @@ function plot(obj){
         display.push(str)
         //adds up the counts on accidents for each state
         if (chart[obj[i].State] == null){
-            chart[obj[i].State] = 1
+            chart[obj[i].State] = [1, population[obj[i].State]]
         } 
         else{
-            chart[obj[i].State] +=1
+            chart[obj[i].State][0] +=1
         }
     }
+    //object for chart, object key is the state, object value for each state is an array containing the values
+    var pop = []
+    var count = []
+    var state = Object.keys(chart)
+    for (const[keys,values] of Object.entries(chart)){
+        pop.push(values[0]/values[1]*1000000)
+        count.push(values[0])
+    }
     //call chart function to fill chart
-    fillChart(sort(chart))
+    fillChart([pop,count,state])
     //map attributes
 
     var data = [{
@@ -132,7 +141,7 @@ function plot(obj){
 
 function fillChart(chart){
     var headerColor = "grey";
-    var header = ["State", "Count"]
+    var header = ["State", "Count", "Capita"]
     var data = [{
         type: 'table',
         header: {
@@ -143,7 +152,7 @@ function fillChart(chart){
             font: {family: "Arial", size: 12, color: "white"}
         },
         cells: {
-            values: [Object.keys(chart), Object.values(chart)],
+            values: [chart[2], chart[1], chart[0]],
             align: "center",
             line: {color: "black", width: 1},
             font: {family: "Arial", size: 11, color: ["black"]}
